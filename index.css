@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Old News";
+  src: url("old-news.ttf");
+}
+
+body {
+  font-family: "Old News";
+}
+
+table {
+  border-spacing: 1em;
+}
+
+th {
+  text-align: left;
+}
