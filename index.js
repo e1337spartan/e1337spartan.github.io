@@ -201,7 +201,11 @@ function loadHeadToHead(matches, players) {
   loadHeadToHeadSelects(players);
 
   loadHeadToHeadTable(matches, players);
+
+  let selectA = document.getElementById("head-to-head-select-a");
   selectA.onchange = () => loadHeadToHeadTable(matches, players);
+  
+  let selectB = document.getElementById("head-to-head-select-b");
   selectB.onchange = () => loadHeadToHeadTable(matches, players);
 }
 
