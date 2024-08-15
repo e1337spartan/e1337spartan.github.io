@@ -10,10 +10,9 @@ async function loadMatches() {
   let response = await fetch("matches.csv");
   let text = await response.text();
   let lines = text.split("\r\n");
-  let n = lines.length - 1;
-  let matches = new Array(n);
+  let matches = new Array(lines.length - 1);
 
-  for (let i = 0; i < n; i++) {
+  for (let i = 0; i < matches.length; i++) {
     let values = lines[i].split(",");
     matches[i] = new Match(values[0], Number(values[1]), values[3], Number(values[2]), values[4]);
   }
@@ -35,10 +34,9 @@ async function loadPlayers(matches) {
   let response = await fetch("players.csv");
   let text = await response.text();
   let lines = text.split("\r\n");
-  let n = lines.length - 1;
-  let players = new Array(n);
+  let players = new Array(lines.length - 1);
 
-  for (let i = 0; i < n; i++) {
+  for (let i = 0; i < players.length; i++) {
     let values = lines[i].split(",");
     players[i] = new Player(Number(values[1]), values[0]);
   }
@@ -67,10 +65,13 @@ function loadMatchesOntoPlayers(matches, players) {
   for (let i = 0; i < matches.length; i++) {
     let playerA = players.find(player => player.name == matches[i].playerAName);
     let deltaPlayerAGameWins = matches[i].playerAGameWins;
+
     let playerB = players.find(player => player.name == matches[i].playerBName);
     let deltaPlayerBGameWins = matches[i].playerBGameWins;
+
     let playerAWon = deltaPlayerAGameWins > deltaPlayerBGameWins;
     let playerBWon = deltaPlayerBGameWins > deltaPlayerAGameWins;
+
     updateGames(playerA, deltaPlayerAGameWins, playerB, deltaPlayerBGameWins);
     updateMatches(playerA, playerAWon, playerB, playerBWon);
     updateElos(playerA, playerAWon, playerB, playerBWon);
@@ -130,26 +131,20 @@ function loadOverview(players) {
   let tr0 = document.createElement("tr");
   table.appendChild(tr0);
 
-  function addTh(textContent) {
-    let th = document.createElement("th");
-    tr0.appendChild(th);
-    th.textContent = textContent;
-  }
-
-  addTh("Rank");
-  addTh("Duelist");
-  addTh("ELO");
-  addTh("Peak ELO");
-  addTh("# Match Wins");
-  addTh("# Match Losses");
-  addTh("# Match Ties");
-  addTh("% Match Wins");
-  addTh("% Match Losses");
-  addTh("% Match Ties");
-  addTh("# Game Wins");
-  addTh("# Game Losses");
-  addTh("% Game Wins");
-  addTh("% Game Losses");
+  addTh(tr0, "Rank");
+  addTh(tr0, "Duelist");
+  addTh(tr0, "ELO");
+  addTh(tr0, "Peak ELO");
+  addTh(tr0, "# Match Wins");
+  addTh(tr0, "# Match Losses");
+  addTh(tr0, "# Match Ties");
+  addTh(tr0, "% Match Wins");
+  addTh(tr0, "% Match Losses");
+  addTh(tr0, "% Match Ties");
+  addTh(tr0, "# Game Wins");
+  addTh(tr0, "# Game Losses");
+  addTh(tr0, "% Game Wins");
+  addTh(tr0, "% Game Losses");
 
   for (let i = 0; i < players.length; i++) {
     let tr = document.createElement("tr");
@@ -162,28 +157,34 @@ function loadOverview(players) {
     } else if (i == 2) {
       tr.style.background = "peru";
     }
-    
-    function addTd(textContent) {
-      let td = document.createElement("td");
-      tr.appendChild(td);
-      td.textContent = textContent;
-    }
 
-    addTd(i + 1);
-    addTd(players[i].name);
-    addTd(Math.round(players[i].elo));
-    addTd(Math.round(players[i].peakElo));
-    addTd(players[i].matchWins);
-    addTd(players[i].matchLosses);
-    addTd(players[i].matchTies);
-    addTd(Math.round(100 * players[i].matchWins / players[i].matches));
-    addTd(Math.round(100 * players[i].matchLosses / players[i].matches));
-    addTd(Math.round(100 * players[i].matchTies / players[i].matches));
-    addTd(players[i].gameWins);
-    addTd(players[i].gameLosses);
-    addTd(Math.round(100 * players[i].gameWins / players[i].games));
-    addTd(Math.round(100 * players[i].gameLosses / players[i].games));
+    addTd(tr, i + 1);
+    addTd(tr, players[i].name);
+    addTd(tr, Math.round(players[i].elo));
+    addTd(tr, Math.round(players[i].peakElo));
+    addTd(tr, players[i].matchWins);
+    addTd(tr, players[i].matchLosses);
+    addTd(tr, players[i].matchTies);
+    addTd(tr, Math.round(100 * players[i].matchWins / players[i].matches));
+    addTd(tr, Math.round(100 * players[i].matchLosses / players[i].matches));
+    addTd(tr, Math.round(100 * players[i].matchTies / players[i].matches));
+    addTd(tr, players[i].gameWins);
+    addTd(tr, players[i].gameLosses);
+    addTd(tr, Math.round(100 * players[i].gameWins / players[i].games));
+    addTd(tr, Math.round(100 * players[i].gameLosses / players[i].games));
   }
+}
+
+function addTh(tr, textContent) {
+  let th = document.createElement("th");
+  tr.appendChild(th);
+  th.textContent = textContent;
+}
+
+function addTd(tr, textContent) {
+  let td = document.createElement("td");
+  tr.appendChild(td);
+  td.textContent = textContent;
 }
 
 function loadHeadToHead(matches, players) {
@@ -197,12 +198,24 @@ function loadHeadToHead(matches, players) {
   headToHead.appendChild(h2);
   h2.textContent = "Head-to-head";
 
+  loadHeadToHeadSelects(players);
+
+  loadHeadToHeadTable(matches, players);
+  selectA.onchange = () => loadHeadToHeadTable(matches, players);
+  selectB.onchange = () => loadHeadToHeadTable(matches, players);
+}
+
+function loadHeadToHeadSelects(players) {
+  let headToHead = document.getElementById("head-to-head");
+
   let labelA = document.createElement("label");
   headToHead.appendChild(labelA);
   labelA.textContent = "Player A";
+  labelA.htmlFor = "head-to-head-select-a";
 
   let selectA = document.createElement("select");
   headToHead.appendChild(selectA);
+  selectA.id = "head-to-head-select-a";
 
   for (let i = 0; i < players.length; i++) {
     let optionA = document.createElement("option");
@@ -214,9 +227,11 @@ function loadHeadToHead(matches, players) {
   let labelB = document.createElement("label");
   headToHead.appendChild(labelB);
   labelB.textContent = "Player B";
+  labelA.htmlFor = "head-to-head-select-b";
 
   let selectB = document.createElement("select");
   headToHead.appendChild(selectB);
+  selectB.id = "head-to-head-select-b";
 
   for (let i = 0; i < players.length; i++) {
     let optionB = document.createElement("option");
@@ -224,104 +239,76 @@ function loadHeadToHead(matches, players) {
     optionB.value = players[i].name;
     optionB.textContent = players[i].name;
   }
+}
 
-  function loadTable() {
-    if (document.getElementById("head-to-head-table") != null) {
-      headToHead.removeChild(document.getElementById("head-to-head-table"));
-    }
+function loadHeadToHeadTable(matches, players) {
+  let headToHead = document.getElementById("head-to-head");
+  let table = document.getElementById("head-to-head-table");
 
-    let table = document.createElement("table");
-    headToHead.appendChild(table);
-    table.id = "head-to-head-table";
-
-    let tr0 = document.createElement("tr");
-    table.appendChild(tr0);
-    let tr1 = document.createElement("tr");
-    table.appendChild(tr1);
-
-    let playerA = players.find(player => player.name == selectA.value);
-    let playerB = players.find(player => player.name == selectB.value);
-
-    let playerAMatchWins = 0;
-    let playerBMatchWins = 0;
-    let playerAOverallGameWins = 0;
-    let playerBOverallGameWins = 0;
-
-    if (playerA != playerB) {
-      for (let i = 0; i < matches.length; i++) {
-        let playerAGameWins = matches[i].playerAName == playerA.name ? matches[i].playerAGameWins : (matches[i].playerBName == playerA.name ? matches[i].playerBGameWins : null);
-        let playerBGameWins = matches[i].playerAName == playerB.name ? matches[i].playerAGameWins : (matches[i].playerBName == playerB.name ? matches[i].playerBGameWins : null);
-        
-        if (playerAGameWins != null && playerBGameWins != null) {
-          let tr = document.createElement("tr");
-          table.appendChild(tr);
-
-          let td0 = document.createElement("td");
-          tr.appendChild(td0);
-          td0.textContent = playerAGameWins;
-
-          let td1 = document.createElement("td");
-          tr.appendChild(td1);
-          td1.textContent = "–";
-
-          let td2 = document.createElement("td");
-          tr.appendChild(td2);
-          td2.textContent = playerBGameWins;
-
-          let td3 = document.createElement("td");
-          tr.appendChild(td3);
-          td3.textContent = matches[i].round;
-
-          playerAOverallGameWins += playerAGameWins;
-          playerBOverallGameWins += playerBGameWins;
-
-          if (playerAGameWins > playerBGameWins) {
-            playerAMatchWins++;
-          } else if (playerAGameWins < playerBGameWins) {
-            playerBMatchWins++;
-          } 
-        }
-      }
-
-      if (playerAMatchWins != 0 && playerBMatchWins != 0) {
-        let td00 = document.createElement("td");
-        tr0.appendChild(td00);
-        td00.textContent = playerAMatchWins;
-
-        let td01 = document.createElement("td");
-        tr0.appendChild(td01);
-        td01.textContent = "–";
-
-        let td02 = document.createElement("td");
-        tr0.appendChild(td02);
-        td02.textContent = playerBMatchWins;
-
-        let td03 = document.createElement("td");
-        tr0.appendChild(td03);
-        td03.textContent = "Match Wins";
-
-        let td10 = document.createElement("td");
-        tr1.appendChild(td10);
-        td10.textContent = playerAOverallGameWins;
-
-        let td11 = document.createElement("td");
-        tr1.appendChild(td11);
-        td11.textContent = "–";
-
-        let td12 = document.createElement("td");
-        tr1.appendChild(td12);
-        td12.textContent = playerBOverallGameWins;
-
-        let td13 = document.createElement("td");
-        tr1.appendChild(td13);
-        td13.textContent = "Game Wins";
-      }
-    }
+  if (table != null) {
+    headToHead.removeChild(table);
   }
 
-  loadTable();
-  selectA.onchange = loadTable;
-  selectB.onchange = loadTable;
+  table = document.createElement("table");
+  headToHead.appendChild(table);
+  table.id = "head-to-head-table";
+
+  let tr0 = document.createElement("tr");
+  table.appendChild(tr0);
+  
+  let tr1 = document.createElement("tr");
+  table.appendChild(tr1);
+
+  let selectA = document.getElementById("head-to-head-select-a");
+  let playerA = players.find(player => player.name == selectA.value);
+  let playerAMatchWins = 0;
+  let playerAGameWins = 0;
+
+  let selectB = document.getElementById("head-to-head-select-b");
+  let playerB = players.find(player => player.name == selectB.value);
+  let playerBMatchWins = 0;
+  let playerBGameWins = 0;
+
+  if (playerA != playerB) {
+    for (let i = 0; i < matches.length; i++) {
+      let deltaPlayerAGameWins = matches[i].playerAName == playerA.name ? matches[i].playerAGameWins : (matches[i].playerBName == playerA.name ? matches[i].playerBGameWins : null);
+      let deltaPlayerBGameWins = matches[i].playerAName == playerB.name ? matches[i].playerAGameWins : (matches[i].playerBName == playerB.name ? matches[i].playerBGameWins : null);
+      
+      let playerAWon = deltaPlayerAGameWins > deltaPlayerBGameWins;
+      let playerBWon = deltaPlayerBGameWins > deltaPlayerAGameWins;
+
+      if (deltaPlayerAGameWins != null && deltaPlayerBGameWins != null) {
+        let tr = document.createElement("tr");
+        table.appendChild(tr);
+
+        addTd(tr, deltaPlayerAGameWins);
+        addTd(tr, "–");
+        addTd(tr, deltaPlayerBGameWins);
+        addTd(tr, matches[i].round);
+
+        playerAGameWins += deltaPlayerAGameWins;
+        playerBGameWins += deltaPlayerBGameWins;
+
+        if (playerAWon) {
+          playerAMatchWins++;
+        } else if (playerBWon) {
+          playerBMatchWins++;
+        }
+      }
+    }
+
+    if (playerAMatchWins != 0 || playerBMatchWins != 0) {
+      addTd(tr0, playerAMatchWins);
+      addTd(tr0, "–");
+      addTd(tr0, playerBMatchWins);
+      addTd(tr0, "# Match Wins");
+
+      addTd(tr1, playerAGameWins);
+      addTd(tr1, "–");
+      addTd(tr1, playerBGameWins);
+      addTd(tr1, "# Game Wins");
+    }
+  }
 }
 
 function closeAll() {
