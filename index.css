@@ -13,4 +13,17 @@ table {
 
 th {
   text-align: left;
+  height: 2em;
+}
+
+td {
+  height: 2em;
+}
+
+select {
+  font-family: "Old News";
+}
+
+option {
+  font-family: "Old News";
 }
