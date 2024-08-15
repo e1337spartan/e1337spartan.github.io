@@ -41,6 +41,7 @@ async function loadPlayers(matches) {
   }
 
   loadMatchesOntoPlayers(matches, players);
+  players.sort((a, b) => b.elo - a.elo);
   return players;
 }
 
