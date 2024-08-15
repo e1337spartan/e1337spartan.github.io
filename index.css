@@ -8,16 +8,18 @@ body {
 }
 
 table {
-  border-spacing: 1em;
+  border-spacing: 0;
 }
 
 th {
   text-align: left;
   height: 2em;
+  padding-right: 1em;
 }
 
 td {
   height: 2em;
+  padding-right: 1em;
 }
 
 select {

@@ -154,6 +154,14 @@ function loadOverview(players) {
   for (let i = 0; i < players.length; i++) {
     let tr = document.createElement("tr");
     table.appendChild(tr);
+
+    if (i == 0) {
+      tr.style.background = "gold";
+    } else if (i == 1) {
+      tr.style.background = "silver";
+    } else if (i == 2) {
+      tr.style.background = "peru";
+    }
     
     function addTd(textContent) {
       let td = document.createElement("td");
