@@ -1,626 +1,549 @@
-Entry,Duelist A,Res,ult,Duelist B,Tournament
-1,Tuong Lai,1,2,Daniel Roa,Tofu 24/6/1 R1
-2,Dan Machado,1,2,Jason Han,Tofu 24/6/1 R1
-3,Donghun Kang,1,2,Nick Varbanets,Tofu 24/6/1 R1
-4,Jason Han,2,0,Tuong Lai,Tofu 24/6/1 R2
-5,Donghun Kang,2,0,Dan Machado,Tofu 24/6/1 R2
-6,Daniel Roa,1,2,Nick Varbanets,Tofu 24/6/1 R2
-7,Daniel Roa,2,0,Donghun Kang,Tofu 24/6/1 R3
-8,Nick Varbanets,2,1,Tuong Lai,Tofu 24/6/1 R3
-9,Jenner Jones,2,0,Nathan Dizon,Galaxy 24/6/8 R1
-10,Nicco Zaragoza,1,2,Johnston Pau,Galaxy 24/6/8 R1
-11,Ismael Zamora,0,2,Alvaro Lopez,Galaxy 24/6/8 R1
-12,Mack McGhee,2,1,Tuong Lai,Galaxy 24/6/8 R1
-13,Erik Chau,0,2,Matt Griffin,Galaxy 24/6/8 R1
-14,Alexandro Morales,2,1,Ryan Dahili,Galaxy 24/6/8 R1
-15,Gustavo Romero,2,0,Alex Frank,Galaxy 24/6/8 R1
-16,Brian Huynh,2,1,Calvin Chow,Galaxy 24/6/8 R1
-17,Jair Manzanilla,1,2,Donghun Kang,Galaxy 24/6/8 R1
-18,Andy Tsang,2,1,Jose Reyes,Galaxy 24/6/8 R1
-19,Alvaro Lopez,1,2,Gustavo Romero,Galaxy 24/6/8 R2
-20,Nathan Dizon,2,1,Mack McGhee,Galaxy 24/6/8 R2
-21,Johnston Pau,0,2,Matt Griffin,Galaxy 24/6/8 R2
-22,Donghun Kang,2,1,Alexandro Morales,Galaxy 24/6/8 R2
-23,Daniel Nath,1,2,Brian Huynh,Galaxy 24/6/8 R2
-24,Jenner Jones,0,2,Andy Tsang,Galaxy 24/6/8 R2
-25,Ismael Zamora,1,2,Alex Frank,Galaxy 24/6/8 R2
-26,Jose Reyes,2,0,Tuong Lai,Galaxy 24/6/8 R2
-27,Ryan Dahili,2,1,Erik Chau,Galaxy 24/6/8 R2
-28,Calvin Chow,2,1,Nicco Zaragoza,Galaxy 24/6/8 R2
-29,Matt Griffin,2,1,Donghun Kang,Galaxy 24/6/8 R3
-30,Brian Huynh,2,1,Jose Reyes,Galaxy 24/6/8 R3
-31,Gustavo Romero,2,0,Andy Tsang,Galaxy 24/6/8 R3
-32,Mack McGhee,0,2,Calvin Chow,Galaxy 24/6/8 R3
-33,Johnston Pau,1,2,Nathan Dizon,Galaxy 24/6/8 R3
-34,Alexandro Morales,2,0,Alvaro Lopez,Galaxy 24/6/8 R3
-35,Alex Frank,1,2,Erik Chau,Galaxy 24/6/8 R3
-36,Jenner Jones,2,1,Daniel Nath,Galaxy 24/6/8 R3
-37,Jair Manzanilla,0,2,Ryan Dahili,Galaxy 24/6/8 R3
-38,Tuong Lai,1,2,Ismael Zamora,Galaxy 24/6/8 R3
-39,Brian Huynh,1,2,Gustavo Romero,Galaxy 24/6/8 R4
-40,Matt Griffin,2,1,Jenner Jones,Galaxy 24/6/8 R4
-41,Andy Tsang,2,1,Ryan Dahili,Galaxy 24/6/8 R4
-42,Nathan Dizon,0,2,Donghun Kang,Galaxy 24/6/8 R4
-43,Alexandro Morales,1,2,Calvin Chow,Galaxy 24/6/8 R4
-44,Nicco Zaragoza,0,2,Jose Reyes,Galaxy 24/6/8 R4
-45,Daniel Nath,2,1,Erik Chau,Galaxy 24/6/8 R4
-46,Mack McGhee,2,0,Johnston Pau,Galaxy 24/6/8 R4
-47,Alex Frank,0,2,Alvaro Lopez,Galaxy 24/6/8 R4
-48,Ismael Zamora,1,2,Jair Manzanilla,Galaxy 24/6/8 R4
-49,Gustavo Romero,1,2,Jenner Jones,Galaxy 24/6/8 T8
-50,Donghun Kang,2,1,Calvin Chow,Galaxy 24/6/8 T8
-51,Matt Griffin,0,2,Brian Huynh,Galaxy 24/6/8 T8
-52,Andy Tsang,2,0,Alexandro Morales,Galaxy 24/6/8 T8
-53,Jenner Jones,2,1,Donghun Kang,Galaxy 24/6/8 T4
-54,Brian Huynh,1,2,Andy Tsang,Galaxy 24/6/8 T4
-55,Jenner Jones,2,0,Andy Tsang,Galaxy 24/6/8 T2
-56,Alexandro Morales,2,0,Brian Huynh,88 24/6/9 R1
-57,Tenzing Kunsang,0,2,Mack McGhee,88 24/6/9 R1
-58,Kenneth Kuo,2,1,Samuel Delgado,88 24/6/9 R1
-59,Gustavo Romero,2,0,Erik Chau,88 24/6/9 R1
-60,Jose Reyes,1,2,Sean Yamazaki,88 24/6/9 R1
-61,Anthony Gonsalves,2,1,Matt Griffin,88 24/6/9 R1
-62,Calvin Chow,2,1,Sebastian Rivera,88 24/6/9 R1
-63,Sean Yamazaki,0,2,Mack McGhee,88 24/6/9 R2
-64,Kenneth Kuo,1,2,Gustavo Romero,88 24/6/9 R2
-65,Anthony Gonsalves,0,2,Alexandro Morales,88 24/6/9 R2
-66,Calvin Chow,0,2,Tenzing Kunsang,88 24/6/9 R2
-67,Jose Reyes,2,0,Erik Chau,88 24/6/9 R2
-68,Brian Huynh,2,0,Samuel Delgado,88 24/6/9 R2
-69,Sebastian Rivera,2,1,Matt Griffin,88 24/6/9 R2
-70,Gustavo Romero,2,1,Alexandro Morales,88 24/6/9 R3
-71,Sebastian Rivera,2,0,Mack McGhee,88 24/6/9 R3
-72,Calvin Chow,2,1,Sean Yamazaki,88 24/6/9 R3
-73,Tenzing Kunsang,2,0,Jose Reyes,88 24/6/9 R3
-74,Anthony Gonsalves,1,2,Kenneth Kuo,88 24/6/9 R3
-75,Erik Chau,1,2,Brian Huynh,88 24/6/9 R3
-76,Samuel Delgado,2,1,Matt Griffin,88 24/6/9 R3
-77,Sebastian Rivera,0,2,Gustavo Romero,88 24/6/9 R4
-78,Calvin Chow,2,1,Alexandro Morales,88 24/6/9 R4
-79,Kenneth Kuo,2,1,Tenzing Kunsang,88 24/6/9 R4
-80,Brian Huynh,2,1,Mack McGhee,88 24/6/9 R4
-81,Samuel Delgado,0,2,Sean Yamazaki,88 24/6/9 R4
-82,Anthony Gonsalves,0,2,Jose Reyes,88 24/6/9 R4
-83,Erik Chau,0,2,Matt Griffin,88 24/6/9 R4
-84,Gustavo Romero,2,0,Mack McGhee,88 24/6/9 T8
-85,Alexandro Morales,0,2,Brian Huynh,88 24/6/9 T8
-86,Calvin Chow,2,0,Sebastian Rivera,88 24/6/9 T8
-87,Kenneth Kuo,0,2,Tenzing Kunsang,88 24/6/9 T8
-88,Gustavo Romero,2,1,Brian Huynh,88 24/6/9 T4
-89,Calvin Chow,2,1,Tenzing Kunsang,88 24/6/9 T4
-90,Gustavo Romero,2,0,Calvin Chow,88 24/6/9 T2
-91,Nick Varbanets,2,0,Jesse Rhee,Tofu 24/6/15 R1
-92,Tuong Lai,0,2,Sam Hoang,Tofu 24/6/15 R1
-93,Alvin Phan,2,1,Dan Machado,Tofu 24/6/15 R1
-94,Vincent Tran,2,1,Matt Griffin,Tofu 24/6/15 R1
-95,Alvin Phan,0,2,Donghun Kang,Tofu 24/6/15 R2
-96,Nick Varbanets,1,2,Vincent Tran,Tofu 24/6/15 R2
-97,Jesse Rhee,0,2,Tuong Lai,Tofu 24/6/15 R2
-98,Dan Machado,0,2,Matt Griffin,Tofu 24/6/15 R2
-99,Vincent Tran,2,1,Donghun Kang,Tofu 24/6/15 R3
-100,Tuong Lai,1,2,Alvin Phan,Tofu 24/6/15 R3
-101,Nick Varbanets,1,2,Matt Griffin,Tofu 24/6/15 R3
-102,Dan Machado,1,2,Jesse Rhee,Tofu 24/6/15 R3
-103,Vincent Tran,1,2,Alvin Phan,Tofu 24/6/15 R4
-104,Donghun Kang,2,1,Tuong Lai,Tofu 24/6/15 R4
-105,Matt Griffin,2,1,Jesse Rhee,Tofu 24/6/15 R4
-106,Nick Varbanets,2,1,Dan Machado,Tofu 24/6/15 R4
-107,Nicco Zaragoza,1,2,Jair Manzanilla,Galaxy 24/6/15 R1
-108,Alvaro Lopez,2,0,Jenner Jones,Galaxy 24/6/15 R1
-109,Gustavo Romero,2,0,Spencer Porter,Galaxy 24/6/15 R1
-109,Janiel Martinez,2,1,Daniel Nath,Galaxy 24/6/15 R1
-110,Alvaro Lopez,2,1,Jair Manzanilla,Galaxy 24/6/15 R2
-111,Janiel Martinez,0,2,Gustavo Romero,Galaxy 24/6/15 R2
-112,Daniel Nath,2,1,Spencer Porter,Galaxy 24/6/15 R2
-112,Nicco Zaragoza,0,2,Jenner Jones,Galaxy 24/6/15 R2
-115,Gustavo Romero,2,0,Alvaro Lopez,Galaxy 24/6/15 R3
-116,Jenner Jones,2,0,Daniel Nath,Galaxy 24/6/15 R3
-117,Janiel Martinez,2,1,Jair Manzanilla,Galaxy 24/6/15 R3
-118,Nicco Zaragoza,2,0,Spencer Porter,Galaxy 24/6/15 R3
-119,Sebastian Rivera,1,2,Alex Baldwin,88 24/6/16 R1
-120,Tenzing Kunsang,2,1,Matt Griffin,88 24/6/16 R1
-121,Eric Baldwin,1,2,Qiu Yang,88 24/6/16 R1
-122,Brian Huynh,2,1,Kenneth Kuo,88 24/6/16 R1
-123,Gustavo Romero,2,1,Tuong Lai,88 24/6/16 R1
-124,Jose Reyes,2,1,Justin Le,88 24/6/16 R1
-125,Allen Wu,0,2,JJ Wolf,88 24/6/16 R1
-127,JJ Wolf,2,1,Donghun Kang,88 24/6/16 R2
-128,Jose Reyes,2,1,Qiu Yang,88 24/6/16 R2
-129,Matt Griffin,2,1,Tuong Lai,88 24/6/16 R2
-130,Tenzing Kunsang,1,2,Gustavo Romero,88 24/6/16 R2
-131,Sebastian Rivera,0,2,Eric Baldwin,88 24/6/16 R2
-132,Brian Huynh,1,2,Alex Baldwin,88 24/6/16 R2
-133,Justin Le,0,2,Kenneth Kuo,88 24/6/16 R2
-135,Donghun Kang,2,0,Kenneth Kuo,88 24/6/16 R3
-136,Matt Griffin,2,0,Qiu Yang,88 24/6/16 R3
-137,Jose Reyes,1,2,Gustavo Romero,88 24/6/16 R3
-138,Brian Huynh,2,0,Allen Wu,88 24/6/16 R3
-139,Tenzing Kunsang,2,1,Eric Baldwin,88 24/6/16 R3
-140,JJ Wolf,2,0,Alex Baldwin,88 24/6/16 R3
-142,Sebastian Rivera,2,1,Allen Wu,88 24/6/16 R4
-143,Tenzing Kunsang,1,2,Donghun Kang,88 24/6/16 R4
-144,Brian Huynh,2,0,Jose Reyes,88 24/6/16 R4
-145,Matt Griffin,1,2,Alex Baldwin,88 24/6/16 R4
-146,Gustavo Romero,1,2,JJ Wolf,89 24/6/16 R4
-147,Qiu Yang,2,0,Kenneth Kuo,88 24/6/16 R4
-149,Donghun Kang,2,0,Alex Baldwin,88 24/6/16 T4
-150,Gustavo Romero,2,0,JJ Wolf,88 24/6/16 T4
-151,Donghun Kang,2,0,Gustavo Romero,88 24/6/16 T2
-152,Jose Reyes,2,0,Donghun Kang,Discord 24/6/19 R1
-153,Tuong Lai,2,1,Sam Hoang,Discord 24/6/19 R1
-154,Joseph Chung,0,2,Matt Griffin,Discord 24/6/19 R1
-155,Jose Reyes,1,2,Matt Griffin,Discord 24/6/19 R2
-156,Donghun Kang,2,0,Tuong Lai,Discord 24/6/19 R2
-157,Joseph Chung,2,0,Sam Hoang,Discord 24/6/19 R2
-158,Tuong Lai,2,0,Matt Griffin,Discord 24/6/19 R3
-159,Joseph Chung,1,2,Jose Reyes,Discord 24/6/19 R3
-160,Donghun Kang,2,0,Sam Hoang,Discord 24/6/19 R3
-161,Jose Reyes,1,2,Matt Griffin,Discord 24/6/19 12
-162,Donghun Kang,1,2,Tuong Lai,Discord 24/6/19 34
-163,Claudio Vacloudio,2,1,Daniel Nath,Galaxy 24/6/22 R1
-164,Brian Huynh,1,2,Alvin Phan,Galaxy 24/6/22 R1
-165,Donghun Kang,0,2,Klint Pangilinan,Galaxy 24/6/22 R1
-166,Jerome Daniels,2,0,George Callacna,Galaxy 24/6/22 R1
-167,Alvaro Lopez,2,1,Jose Reyes,Galaxy 24/6/22 R1
-168,Garaku Obloma,0,2,Gustavo Romero,Galaxy 24/6/22 R1
-169,Ryan Dahili,2,1,Jenner Jones,Galaxy 24/6/22 R1
-170,Alvaro Lopez,0,2,Alvin Phan,Galaxy 24/6/22 R2
-171,Ryan Dahili,2,0,Nicco Zaragoza,Galaxy 24/6/22 R2
-172,Jerome Daniels,1,2,Claudio Vacloudio,Galaxy 24/6/22 R2
-173,Gustavo Romero,1,2,Klint Pangilinan,Galaxy 24/6/22 R2
-174,Garaku Obloma,0,2,Donghun Kang,Galaxy 24/6/22 R2
-175,Brian Huynh,0,2,George Callacna,Galaxy 24/6/22 R2
-176,Jenner Jones,1,2,Jose Reyes,Galaxy 24/6/22 R2
-177,Ryan Dahili,2,0,Claudio Vacloudio,Galaxy 24/6/22 R3
-178,Alvin Phan,2,1,Klint Pangilinan,Galaxy 24/6/22 R3
-179,Jerome Daniels,2,0,Daniel Nath,Galaxy 24/6/22 R3
-180,Jose Reyes,0,2,Donghun Kang,Galaxy 24/6/22 R3
-181,Nicco Zaragoza,0,2,George Callacna,Galaxy 24/6/22 R3
-182,Alvaro Lopez,0,2,Gustavo Romero,Galaxy 24/6/22 R3
-183,Garaku Obloma,1,2,Brian Huynh,Galaxy 24/6/22 R3
-184,Ryan Dahili,2,1,Alvin Phan,Galaxy 24/6/22 T2
-185,Alexandro Morales,2,0,Klint Pangilinan,88 24/6/23 R1
-186,JJ Wolf,1,2,Brian Huynh,88 24/6/23 R1
-187,Sebastian Rivera,0,2,Alex Baldwin,88 24/6/23 R1
-188,Gustavo Romero,2,1,Mack McGhee,88 24/6/23 R1
-189,Johnston Pau,2,0,Vincent Tran,88 24/6/23 R1
-190,Samuel Delgado,2,1,Alvin Phan,88 24/6/23 R1
-191,Andy Tsang,2,0,Matt Griffin,88 24/6/23 R1
-192,Eric Baldwin,2,1,Sam Hoang,88 24/6/23 R1
-193,Calvin Chow,2,1,Jose Reyes,88 24/6/23 R1
-194,Andy Tsang,2,1,Johnston Pau,88 24/6/23 R2
-195,Alex Baldwin,2,1,Tuong Lai,88 24/6/23 R2
-196,Calvin Chow,2,1,Samuel Delgado,88 24/6/23 R2
-197,Gustavo Romero,2,1,Eric Baldwin,88 24/6/23 R2
-198,Alexandro Morales,1,2,Brian Huynh,88 24/6/23 R2
-199,Jose Reyes,0,2,Vincent Tran,88 24/6/23 R2
-200,JJ Wolf,2,1,Klint Pangilinan,88 24/6/23 R2
-201,Sebastian Rivera,1,2,Alvin Phan,88 24/6/23 R2
-202,Sam Hoang,1,2,Matt Griffin,88 24/6/23 R2
-203,Brian Huynh,2,0,Gustavo Romero,88 24/6/23 R3
-204,Calvin Chow,2,1,Andy Tsang,88 24/6/23 R3
-205,Alex Baldwin,0,2,Matt Griffin,88 24/6/23 R3
-206,Eric Baldwin,1,2,Mack McGhee,88 24/6/23 R3
-207,Tuong Lai,2,1,Vincent Tran,88 24/6/23 R3
-208,Alexandro Morales,2,1,Alvin Phan,88 24/6/23 R3
-209,Johnston Pau,2,0,Samuel Delgado,88 24/6/23 R3
-210,JJ Wolf,2,0,Sam Hoang,88 24/6/23 R3
-211,Sebastian Rivera,2,0,Jose Reyes,88 24/6/23 R3
-212,Calvin Chow,1,2,Brian Huynh,88 24/6/23 R4
-213,JJ Wolf,2,1,Matt Griffin,88 24/6/23 R4
-214,Johnston Pau,2,1,Mack McGhee,88 24/6/23 R4
-215,Andy Tsang,1,2,Gustavo Romero,88 24/6/23 R4
-216,Alex Baldwin,1,2,Alexandro Morales,88 24/6/23 R4
-217,Sebastian Rivera,0,2,Tuong Lai,88 24/6/23 R4
-218,Alvin Phan,2,1,Klint Pangilinan,88 24/6/23 R4
-219,Eric Baldwin,0,2,Vincent Tran,88 24/6/23 R4
-220,Jose Reyes,2,0,Samuel Delgado,88 24/6/23 R4
-221,Brian Huynh,2,1,Calvin Chow,88 24/6/23 T4
-222,Gustavo Romero,0,2,Alexandro Morales,88 24/6/23 T4
-223,Brian Huynh,0,2,Alexandro Morales,88 24/6/23 T2
-224,Abel Urena,2,1,Sam Hoang,Tofu 24/6/29 R1
-225,Donghun Kang,2,1,Martin Ortiz,Tofu 24/6/29 R1
-226,Tuong Lai,0,2,Yishan McNabb,Tofu 24/6/29 R1
-227,Melanie Ma,1,2,Nick Varbanets,Tofu 24/6/29 R1
-228,Donghun Kang,2,1,Cristian Lorenzana,Tofu 24/6/29 R2
-229,Nick Varbanets,2,1,Yishan McNabb,Tofu 24/6/29 R2
-230,Abel Urena,1,2,Tuong Lai,Tofu 24/6/29 R2
-231,Sam Hoang,2,1,Melanie Ma,Tofu 24/6/29 R2
-232,Donghun Kang,1,2,Nick Varbanets,Tofu 24/6/29 R3
-233,Martin Ortiz,2,1,Yishan McNabb,Tofu 24/6/29 R3
-234,Tuong Lai,1,2,Sam Hoang,Tofu 24/6/29 R3
-235,Abel Urena,0,2,Cristian Lorenzana,Tofu 24/6/29 R3
-236,Gustavo Romero,0,2,Nima Movasseshi,Galaxy 24/6/29 R1
-237,Mark Tayo,1,2,Jose Reyes,Galaxy 24/6/29 R1
-238,Aymen Matari,2,0,Nicco Zaragoza,Galaxy 24/6/29 R1
-239,Andy Tsang,2,1,Jenner Jones,Galaxy 24/6/29 R1
-240,Ibrahim Dusmez,0,2,Daniel Nath,Galaxy 24/6/29 R1
-241,Nima Movasseshi,2,1,Daniel Nath,Galaxy 24/6/29 R2
-242,Aymen Matari,1,2,Jose Reyes,Galaxy 24/6/29 R2
-243,Andy Tsang,2,0,Ibrahim Dusmez,Galaxy 24/6/29 R2
-244,Nicco Zaragoza,2,1,Gustavo Romero,Galaxy 24/6/29 R2
-245,Jenner Jones,2,1,Mark Tayo,Galaxy 24/6/29 R2
-246,Andy Tsang,2,0,Jose Reyes,Galaxy 24/6/29 R3
-247,Nicco Zaragoza,0,2,Nima Movasseshi,Galaxy 24/6/29 R3
-248,Jenner Jones,2,1,Daniel Nath,Galaxy 24/6/29 R3
-249,Aymen Matari,1,2,Gustavo Romero,Galaxy 24/6/29 R3
-250,Ryan Dahili,2,1,Grant Groshek,88 24/6/30 R1
-251,Gustavo Romero,2,0,Matt Griffin,88 24/6/30 R1
-252,Calvin Chow,1,2,Austin Baylor,88 24/6/30 R1
-253,Alexandro Morales,1,2,Daniel Roa,88 24/6/30 R1
-254,Mark Tayo,0,2,Brian Huynh,88 24/6/30 R1
-255,Raymond Chen,1,2,Alvin Phan,88 24/6/30 R1
-256,Andy Tsang,2,0,Samuel Delgado,88 24/6/30 R1
-257,Anthony Gonsalves,1,2,Tenzing Kunsang,88 24/6/30 R1
-258,Donghun Kang,2,1,Tuong Lai,88 24/6/30 R1
-259,Sebastian Rivera,1,2,Jesse Rhee,88 24/6/30 R1
-260,Gustavo Romero,0,2,Alvin Phan,88 24/6/30 R2
-261,Ryan Dahili,0,2,Donghun Kang,88 24/6/30 R2
-262,Jesse Rhee,1,2,Daniel Roa,88 24/6/30 R2
-263,Andy Tsang,1,2,Brian Huynh,88 24/6/30 R2
-264,Tenzing Kunsang,2,1,Austin Baylor,88 24/6/30 R2
-265,Calvin Chow,2,0,Tuong Lai,88 24/6/30 R2
-266,Mark Tayo,2,0,Grant Groshek,88 24/6/30 R2
-267,Anthony Gonsalves,2,0,Raymond Chen,88 24/6/30 R2
-268,Alexandro Morales,1,2,Matt Griffin,88 24/6/30 R2
-269,Sebastian Rivera,1,2,Samuel Delgado,88 24/6/30 R2
-270,Tenzing Kunsang,1,2,Daniel Roa,88 24/6/30 R3
-271,Donghun Kang,0,2,Alvin Phan,88 24/6/30 R3
-272,Gustavo Romero,2,1,Brian Huynh,88 24/6/30 R3
-273,Ryan Dahili,1,2,Samuel Delgado,88 24/6/30 R3
-274,Anthony Gonsalves,2,1,Jesse Rhee,88 24/6/30 R3
-275,Mark Tayo,2,1,Austin Baylor,88 24/6/30 R3
-276,Andy Tsang,2,0,Matt Griffin,88 24/6/30 R3
-277,Calvin Chow,2,1,Sebastian Rivera,88 24/6/30 R3
-278,Raymond Chen,1,2,Tuong Lai,88 24/6/30 R3
-279,Alexandro Morales,2,1,Grant Groshek,88 24/6/30 R3
-280,Daniel Roa,1,2,Alvin Phan,88 24/6/30 R4
-281,Andy Tsang,2,1,Donghun Kang,88 24/6/30 R4
-282,Brian Huynh,2,1,Samuel Delgado,88 24/6/30 R4
-283,Anthony Gonsalves,0,2,Gustavo Romero,88 24/6/30 R4
-284,Tenzing Kunsang,0,2,Mark Tayo,88 24/6/30 R4
-285,Calvin Chow,2,1,Ryan Dahili,88 24/6/30 R4
-286,Alexandro Morales,2,1,Tuong Lai,88 24/6/30 R4
-287,Jesse Rhee,2,0,Austin Baylor,88 24/6/30 R4
-288,Raymond Chen,1,2,Matt Griffin,88 24/6/30 R4
-289,Sebastian Rivera,2,0,Grant Groshek,88 24/6/30 R4
-290,Alvin Phan,0,2,Tenzing Kunsang,88 24/6/30 T8
-291,Daniel Roa,2,1,Andy Tsang,88 24/6/30 T8
-292,Brian Huynh,0,2,Calvin Chow,88 24/6/30 T8
-293,Gustavo Romero,2,1,Mark Tayo,88 24/6/30 T8
-294,Tenzing Kunsang,0,2,Daniel Roa,88 24/6/30 T4
-295,Calvin Chow,0,2,Gustavo Romero,88 24/6/30 T4
-296,Daniel Roa,2,1,Gustavo Romero,88 24/6/30 T2
-297,Austin Baylor,1,2,Alexandro Morales,88 24/7/7 R1
-298,Jose Reyes,2,0,Donghun Kang,88 24/7/7 R1
-299,Sebastian Rivera,0,2,Chris Tran,88 24/7/7 R1
-300,Ryan Dahili,2,0,Samuel Delgado,88 24/7/7 R1
-301,Anthony Gonsalves,2,1,Brian Huynh,88 24/7/7 R1
-302,Andy Tsang,2,1,Gustavo Romero,88 24/7/7 R1
-303,Sean Yamazaki,2,1,Tuong Lai,88 24/7/7 R1
-304,Grant Groshek,0,2,Mack McGhee,88 24/7/7 R1
-305,Justin Le,1,2,Eric Baldwin,88 24/7/7 R1
-306,Eric Baldwin,1,2,Mack McGhee,88 24/7/7 R2
-307,Anthony Gonsalves,2,1,Andy Tsang,88 24/7/7 R2
-308,Justin Le,1,2,Alexandro Morales,88 24/7/7 R2
-309,Chris Tran,1,2,Jose Reyes,88 24/7/7 R2
-310,Ryan Dahili,2,1,Sean Yamazaki,88 24/7/7 R2
-311,Donghun Kang,2,1,Samuel Delgado,88 24/7/7 R2
-312,Sebastian Rivera,1,2,Gustavo Romero,88 24/7/7 R2
-313,Austin Baylor,1,2,Brian Huynh,88 24/7/7 R2
-314,Jose Reyes,2,0,Mack McGhee,88 24/7/7 R3
-315,Anthony Gonsalves,2,0,Ryan Dahili,88 24/7/7 R3
-316,Alexandro Morales,2,1,Eric Baldwin,88 24/7/7 R3
-317,Andy Tsang,2,0,Tuong Lai,88 24/7/7 R3
-318,Donghun Kang,2,0,Brian Huynh,88 24/7/7 R3
-319,Justin Le,0,2,Gustavo Romero,88 24/7/7 R3
-320,Chris Tran,2,1,Sean Yamazaki,88 24/7/7 R3
-321,Samuel Delgado,2,1,Grant Groshek,88 24/7/7 R3
-322,Austin Baylor,0,2,Sebastian Rivera,88 24/7/7 R3
-323,Jose Reyes,0,2,Alexandro Morales,88 24/7/7 R4
-324,Anthony Gonsalves,2,1,Chris Tran,88 24/7/7 R4
-325,Ryan Dahili,2,0,Gustavo Romero,88 24/7/7 R4
-326,Donghun Kang,1,2,Mack McGhee,88 24/7/7 R4
-327,Andy Tsang,2,0,Sebastian Rivera,88 24/7/7 R4
-328,Brian Huynh,0,2,Eric Baldwin,88 24/7/7 R4
-329,Justin Le,1,2,Tuong Lai,88 24/7/7 R4
-330,Samuel Delgado,1,2,Sean Yamazaki,88 24/7/7 R4
-331,Austin Baylor,1,2,Grant Groshek,88 24/7/7 R4
-332,Anthony Gonsalves,2,1,Eric Baldwin,88 24/7/7 T8
-333,Ryan Dahili,2,0,Mack McGhee,88 24/7/7 T8
-334,Chris Tran,0,2,Alexandro Morales,88 24/7/7 T8
-335,Andy Tsang,2,0,Jose Reyes,88 24/7/7 T8
-336,Anthony Gonsalves,0,2,Ryan Dahili,88 24/7/7 T4
-337,Alexandro Morales,1,2,Andy Tsang,88 24/7/7 T4
-338,Ryan Dahili,0,2,Andy Tsang,88 24/7/7 T2
-339,Tuong Lai,0,2,Matt Griffin,Fire 24/7/13 R1
-340,Sam Hoang,2,1,Austin Baylor,Fire 24/7/13 R1
-341,Dan Machado,2,1,Jesse Rhee,Fire 24/7/13 R1
-342,Elliot Ong,2,1,Grant Groshek,Fire 24/7/13 R1
-343,Abel Urena,1,2,Donghun Kang,Fire 24/7/13 R1
-344,Martin Ortiz,2,0,Brian Huynh,Fire 24/7/13 R1
-345,Matt Griffin,0,2,Donghun Kang,Fire 24/7/13 R2
-346,Martin Ortiz,2,0,Dan Machado,Fire 24/7/13 R2
-347,Elliot Ong,2,1,Sam Hoang,Fire 24/7/13 R2
-348,Grant Groshek,1,2,Brian Huynh,Fire 24/7/13 R2
-349,Abel Urena,2,0,Jesse Rhee,Fire 24/7/13 R2
-350,Tuong Lai,2,1,Austin Baylor,Fire 24/7/13 R2
-351,Martin Ortiz,2,1,Elliot Ong,Fire 24/7/13 R3
-352,Donghun Kang,2,1,Brian Huynh,Fire 24/7/13 R3
-353,Abel Urena,0,2,Matt Griffin,Fire 24/7/13 R3
-354,Dan Machado,2,0,Sam Hoang,Fire 24/7/13 R3
-355,Tuong Lai,2,1,Grant Groshek,Fire 24/7/13 R3
-356,Austin Baylor,2,0,Jesse Rhee,Fire 24/7/13 R3
-357,Martin Ortiz,2,0,Donghun Kang,Fire 24/7/13 R4
-358,Dan Machado,0,2,Brian Huynh,Fire 24/7/13 R4
-359,Matt Griffin,0,2,Elliot Ong,Fire 24/7/13 R4
-360,Tuong Lai,2,1,Sam Hoang,Fire 24/7/13 R4
-361,Abel Urena,2,1,Austin Baylor,Fire 24/7/13 R4
-362,Jesse Rhee,2,0,Grant Groshek,Fire 24/7/13 R4
-363,Alvaro Lopez,2,1,Nicco Zaragoza,Galaxy 24/7/13 R1
-364,Mark Tayo,1,2,Gustavo Romero,Galaxy 24/7/13 R1
-365,Andy Tsang,1,2,Nima Movasseshi,Galaxy 24/7/13 R1
-366,Claudio Vacloudio,0,2,Daniel Nath,Galaxy 24/7/13 R1
-367,Alvaro Lopez,1,2,Gustavo Romero,Galaxy 24/7/13 R2
-368,Nima Movasseshi,2,0,Daniel Nath,Galaxy 24/7/13 R2
-369,Nicco Zaragoza,2,1,Claudio Vacloudio,Galaxy 24/7/13 R2
-370,Andy Tsang,2,1,Mark Tayo,Galaxy 24/7/13 R2
-371,Gustavo Romero,2,0,Nima Movasseshi,Galaxy 24/7/13 R3
-372,Alvaro Lopez,0,2,Daniel Nath,Galaxy 24/7/13 R3
-373,Andy Tsang,2,0,Nicco Zaragoza,Galaxy 24/7/13 R3
-374,Mark Tayo,1,2,Claudio Vacloudio,Galaxy 24/7/13 R3
-375,Mack McGhee,1,2,Samuel Delgado,Destine 24/7/14 R1
-376,Johnston Pau,1,2,Nima Movasseshi,Destine 24/7/14 R1
-377,Donghun Kang,1,2,Tuong Lai,Destine 24/7/14 R1
-378,Sean Martinez,2,1,Brian Huynh,Destine 24/7/14 R1
-379,Andy Tsang,1,2,Jose Reyes,Destine 24/7/14 R1
-380,Anthony Gonsalves,2,0,Sam Hoang,Destine 24/7/14 R1
-381,Duy Pham,0,2,Sean Yamazaki,Destine 24/7/14 R1
-382,Sean Yamazaki,0,2,Tuong Lai,Destine 24/7/14 R2
-383,Sean Martinez,0,2,Jose Reyes,Destine 24/7/14 R2
-384,Anthony Gonsalves,2,1,Samuel Delgado,Destine 24/7/14 R2
-385,Donghun Kang,2,0,Nima Movasseshi,Destine 24/7/14 R2
-386,Mack McGhee,2,1,Johnston Pau,Destine 24/7/14 R2
-387,Brian Huynh,2,1,Sam Hoang,Destine 24/7/14 R2
-388,Andy Tsang,2,1,Duy Pham,Destine 24/7/14 R2
-389,Jose Reyes,2,0,Tuong Lai,Destine 24/7/14 R3
-390,Anthony Gonsalves,2,1,Mack McGhee,Destine 24/7/14 R3
-391,Sean Martinez,1,2,Samuel Delgado,Destine 24/7/14 R3
-392,Brian Huynh,2,0,Sean Yamazaki,Destine 24/7/14 R3
-393,Andy Tsang,1,2,Donghun Kang,Destine 24/7/14 R3
-394,Duy Pham,1,2,Nima Movasseshi,Destine 24/7/14 R3
-395,Johnston Pau,1,2,Sam Hoang,Destine 24/7/14 R3
-396,Anthony Gonsalves,0,2,Jose Reyes,Destine 24/7/14 R4
-397,Donghun Kang,0,2,Samuel Delgado,Destine 24/7/14 R4
-398,Nima Movasseshi,2,1,Tuong Lai,Destine 24/7/14 R4
-399,Mack McGhee,2,1,Brian Huynh,Destine 24/7/14 R4
-400,Andy Tsang,2,0,Sam Hoang,Destine 24/7/14 R4
-401,Sean Martinez,0,2,Sean Yamazaki,Destine 24/7/14 R4
-402,Johnston Pau,0,2,Duy Pham,Destine 24/7/14 R4
-403,Jose Reyes,2,1,Brian Huynh,Destine 24/7/14 T4
-404,Anthony Gonsalves,2,1,Samuel Delgado,Destine 24/7/14 T4
-405,Jose Reyes,1,2,Anthony Gonsalves,Destine 24/7/14 T2
-406,Kyle Williams,2,1,Ismael Zamora,Galaxy 24/7/20 R1
-407,Sean Martinez,0,2,Daniel Nath,Galaxy 24/7/20 R1
-408,Ryan Dahili,2,0,Claudio Vacloudio,Galaxy 24/7/20 R1
-409,Alvaro Lopez,0,2,Gustavo Romero,Galaxy 24/7/20 R1
-410,Ryan Dahili,2,1,Daniel Nath,Galaxy 24/7/20 R2
-411,Sean Martinez,2,0,Claudio Vacloudio,Galaxy 24/7/20 R2
-412,Gustavo Romero,2,0,Kyle Williams,Galaxy 24/7/20 R2
-413,Alvaro Lopez,2,0,Ismael Zamora,Galaxy 24/7/20 R2
-414,Ryan Dahili,2,0,Gustavo Romero,Galaxy 24/7/20 R3
-415,Alvaro Lopez,1,2,Sean Martinez,Galaxy 24/7/20 R3
-416,Kyle Williams,2,1,Daniel Nath,Galaxy 24/7/20 R3
-417,Ismael Zamora,2,1,Claudio Vacloudio,Galaxy 24/7/20 R3
-418,Ryan Dahili,1,2,Alvin Phan,88 24/7/21 R1
-419,Sebastian Rivera,2,1,Alexandro Morales,88 24/7/21 R1
-420,Sean Yamazaki,0,2,Gustavo Romero,88 24/7/21 R1
-421,Gustavo Romero,1,2,Alvin Phan,88 24/7/21 R2
-422,Sebastian Rivera,1,2,Matt Griffin,88 24/7/21 R2
-423,Sean Yamazaki,0,2,Alexandro Morales,88 24/7/21 R2
-424,Matt Griffin,2,1,Alvin Phan,88 24/7/21 R3
-425,Sebastian Rivera,2,1,Ryan Dahili,88 24/7/21 R3
-426,Alexandro Morales,2,0,Gustavo Romero,88 24/7/21 R3
-427,Sam Hoang,2,1,Matt Griffin,MLK 24/7/27 R1
-428,Alvin Phan,2,1,Tuong Lai,MLK 24/7/27 R1
-429,Donghun Kang,2,0,Nick Varbanets,MLK 24/7/27 R1
-430,Alvin Phan,2,0,Sam Hoang,MLK 24/7/27 R2
-431,Matt Griffin,2,1,Nick Varbanets,MLK 24/7/27 R2
-432,Tuong Lai,0,2,Donghun Kang,MLK 24/7/27 R2
-433,Alvin Phan,0,2,Donghun Kang,MLK 24/7/27 R3
-434,Matt Griffin,2,0,Tuong Lai,MLK 24/7/27 R3
-435,Nick Varbanets,0,2,Sam Hoang,MLK 24/7/27 R3
-436,Kyle Williams,2,0,Daniel Nath,Galaxy 24/7/27 R1
-437,Ryan Dahili,1,2,Alvaro Lopez,Galaxy 24/7/27 R1
-438,Alvaro Lopez,2,1,Kyle Williams,Galaxy 24/7/27 R2
-439,Andy Tsang,0,2,Daniel Nath,Galaxy 24/7/27 R2
-440,Alvaro Lopez,1,2,Andy Tsang,Galaxy 24/7/27 R3
-441,Ryan Dahili,2,1,Kyle Williams,Galaxy 24/7/27 R3
-442,Andy Tsang,2,1,AJ,88 24/7/28 R1
-443,Mack McGhee,2,1,Joe,88 24/7/28 R1
-444,Mack McGhee,2,1,AJ,88 24/7/28 R2
-445,Andy Tsang,2,0,Joe,88 24/7/28 R2
-446,Mack McGhee,2,1,Andy Tsang,88 24/7/28 R3
-447,AJ,2,1,Joe,88 24/7/28 R3
-448,Matt Griffin,0,2,Tuong Lai,Fire 24/8/3 R1
-449,Teddy Tran,1,2,Brian Huynh,Fire 24/8/3 R1
-450,Alvin Phan,2,1,Andy Tsang,Fire 24/8/3 R1
-451,Tuong Lai,1,2,Alvin Phan,Fire 24/8/3 R2
-452,Brian Huynh,1,2,Andy Tsang,Fire 24/8/3 R2
-453,Teddy Tran,1,2,Matt Griffin,Fire 24/8/3 R2
-454,Alvin Phan,2,0,Matt Griffin,Fire 24/8/3 R3
-455,Brian Huynh,1,2,Tuong Lai,Fire 24/8/3 R3
-456,Teddy Tran,0,2,Andy Tsang,Fire 24/8/3 R3
-457,Mike Guernsey,2,0,Daniel Nath,Galaxy 24/8/3 R1
-458,Ryan Dahili,2,0,Jair Manzanilla,Galaxy 24/8/3 R1
-459,Alvaro Lopez,2,1,Nicco Zaragoza,Galaxy 24/8/3 R1
-460,Ryan Dahili,1,2,Alvaro Lopez,Galaxy 24/8/3 R2
-461,Mike Guernsey,2,1,Jair Manzanilla,Galaxy 24/8/3 R2
-462,Nicco Zaragoza,1,2,Daniel Nath,Galaxy 24/8/3 R2
-463,Alvaro Lopez,2,0,Mike Guernsey,Galaxy 24/8/3 R3
-464,Ryan Dahili,1,2,Daniel Nath,Galaxy 24/8/3 R3
-465,Nicco Zaragoza,1,2,Jair Manzanilla,Galaxy 24/8/3 R3
-466,Matt Griffin,2,1,JJ Wolf,88 24/8/4 R1
-467,Ryan Dahili,1,2,Anthony Gonsalves,88 24/8/4 R1
-468,Sebastian Rivera,0,2,Samuel Delgado,88 24/8/4 R1
-469,Andy Tsang,2,1,Aymen Matari,88 24/8/4 R1
-470,Tuong Lai,2,1,Alvaro Lopez,88 24/8/4 R1
-471,Jose Reyes,2,1,Donghun Kang,88 24/8/4 R1
-472,Brian Huynh,2,1,Eric Baldwin,88 24/8/4 R1
-473,Alvin Phan,1,2,Alexandro Morales,88 24/8/4 R1
-474,Mack McGhee,2,0,Alex Baldwin,88 24/8/4 R1
-475,Matt Griffin,2,0,Andy Tsang,88 24/8/4 R2
-476,Sebastian Rivera,2,0,Eric Baldwin,88 24/8/4 R2
-477,Samuel Delgado,0,2,Anthony Gonsalves,88 24/8/4 R2
-478,Alvaro Lopez,0,2,Jose Reyes,88 24/8/4 R2
-479,Alvin Phan,1,2,Donghun Kang,88 24/8/4 R2
-480,Alexandro Morales,1,2,Brian Huynh,88 24/8/4 R2
-481,Tuong Lai,1,2,Mack McGhee,88 24/8/4 R2
-482,JJ Wolf,2,0,Aymen Matari,88 24/8/4 R2
-483,Brian Huynh,2,0,Andy Tsang,88 24/8/4 R3
-484,Matt Griffin,2,1,Samuel Delgado,88 24/8/4 R3
-485,Anthony Gonsalves,2,1,Mack McGhee,88 24/8/4 R3
-486,Donghun Kang,2,0,Ryan Dahili,88 24/8/4 R3
-487,Sebastian Rivera,1,2,Alexandro Morales,88 24/8/4 R3
-488,JJ Wolf,2,1,Jose Reyes,88 24/8/4 R3
-489,Matt Griffin,2,0,Tuong Lai,88 24/8/4 R4
-490,Brian Huynh,2,0,Anthony Gonsalves,88 24/8/4 R4
-491,Sebastian Rivera,1,2,Ryan Dahili,88 24/8/4 R4
-492,Mack McGhee,1,2,JJ Wolf,88 24/8/4 R4
-493,Andy Tsang,2,0,Jose Reyes,88 24/8/4 R4
-494,Donghun Kang,2,1,Alexandro Morales,88 24/8/4 R4
-495,Samuel Delgado,1,2,Alvin Phan,88 24/8/4 R4
-496,Alexandro Morales,0,2,Andy Tsang,88 24/8/4 T8
-497,Brian Huynh,0,2,Jose Reyes,88 24/8/4 T8
-498,Matt Griffin,1,2,Donghun Kang,88 24/8/4 T8
-499,JJ Wolf,0,2,Anthony Gonsalves,88 24/8/4 T8
-500,Jose Reyes,2,0,Donghun Kang,88 24/8/4 T4
-501,Andy Tsang,2,1,Anthony Gonsalves,88 24/8/4 T4
-502,Andy Tsang,0,2,Jose Reyes,88 24/8/4 T2
-503,,,,,
-504,,,,,
-505,,,,,
-506,,,,,
-507,,,,,
-508,,,,,
-509,,,,,
-510,,,,,
-511,,,,,
-512,,,,,
-513,,,,,
-514,,,,,
-515,,,,,
-516,,,,,
-517,,,,,
-518,,,,,
-519,,,,,
-520,,,,,
-521,,,,,
-522,,,,,
-523,,,,,
-524,,,,,
-525,,,,,
-526,,,,,
-527,,,,,
-528,,,,,
-529,,,,,
-530,,,,,
-531,,,,,
-532,,,,,
-533,,,,,
-534,,,,,
-535,,,,,
-536,,,,,
-537,,,,,
-538,,,,,
-539,,,,,
-540,,,,,
-541,,,,,
-542,,,,,
-543,,,,,
-544,,,,,
-545,,,,,
-546,,,,,
-547,,,,,
-548,,,,,
-549,,,,,
-550,,,,,
-551,,,,,
-552,,,,,
-553,,,,,
-554,,,,,
-555,,,,,
-556,,,,,
-557,,,,,
-558,,,,,
-559,,,,,
-560,,,,,
-561,,,,,
-562,,,,,
-563,,,,,
-564,,,,,
-565,,,,,
-566,,,,,
-567,,,,,
-568,,,,,
-569,,,,,
-570,,,,,
-571,,,,,
-572,,,,,
-573,,,,,
-574,,,,,
-575,,,,,
-576,,,,,
-577,,,,,
-578,,,,,
-579,,,,,
-580,,,,,
-581,,,,,
-582,,,,,
-583,,,,,
-584,,,,,
-585,,,,,
-586,,,,,
-587,,,,,
-588,,,,,
-589,,,,,
-590,,,,,
-591,,,,,
-592,,,,,
-593,,,,,
-594,,,,,
-595,,,,,
-596,,,,,
-597,,,,,
-598,,,,,
-599,,,,,
-600,,,,,
-601,,,,,
-602,,,,,
-603,,,,,
-604,,,,,
-605,,,,,
-606,,,,,
-607,,,,,
-608,,,,,
-609,,,,,
-610,,,,,
-611,,,,,
-612,,,,,
-613,,,,,
-614,,,,,
-615,,,,,
-616,,,,,
-617,,,,,
-618,,,,,
-619,,,,,
-620,,,,,
-621,,,,,
-622,,,,,
-623,,,,,
-624,,,,,
-625,,,,,
-626,,,,,
-627,,,,,
-628,,,,,
-629,,,,,
+Tuong Lai,1,2,Daniel Roa,Tofu 24/6/1 R1
+Dan Machado,1,2,Jason Han,Tofu 24/6/1 R1
+Donghun Kang,1,2,Nick Varbanets,Tofu 24/6/1 R1
+Jason Han,2,0,Tuong Lai,Tofu 24/6/1 R2
+Donghun Kang,2,0,Dan Machado,Tofu 24/6/1 R2
+Daniel Roa,1,2,Nick Varbanets,Tofu 24/6/1 R2
+Daniel Roa,2,0,Donghun Kang,Tofu 24/6/1 R3
+Nick Varbanets,2,1,Tuong Lai,Tofu 24/6/1 R3
+Jenner Jones,2,0,Nathan Dizon,Galaxy 24/6/8 R1
+Nicco Zaragoza,1,2,Johnston Pau,Galaxy 24/6/8 R1
+Ismael Zamora,0,2,Alvaro Lopez,Galaxy 24/6/8 R1
+Mack McGhee,2,1,Tuong Lai,Galaxy 24/6/8 R1
+Erik Chau,0,2,Matt Griffin,Galaxy 24/6/8 R1
+Alexandro Morales,2,1,Ryan Dahili,Galaxy 24/6/8 R1
+Gustavo Romero,2,0,Alex Frank,Galaxy 24/6/8 R1
+Brian Huynh,2,1,Calvin Chow,Galaxy 24/6/8 R1
+Jair Manzanilla,1,2,Donghun Kang,Galaxy 24/6/8 R1
+Andy Tsang,2,1,Jose Reyes,Galaxy 24/6/8 R1
+Alvaro Lopez,1,2,Gustavo Romero,Galaxy 24/6/8 R2
+Nathan Dizon,2,1,Mack McGhee,Galaxy 24/6/8 R2
+Johnston Pau,0,2,Matt Griffin,Galaxy 24/6/8 R2
+Donghun Kang,2,1,Alexandro Morales,Galaxy 24/6/8 R2
+Daniel Nath,1,2,Brian Huynh,Galaxy 24/6/8 R2
+Jenner Jones,0,2,Andy Tsang,Galaxy 24/6/8 R2
+Ismael Zamora,1,2,Alex Frank,Galaxy 24/6/8 R2
+Jose Reyes,2,0,Tuong Lai,Galaxy 24/6/8 R2
+Ryan Dahili,2,1,Erik Chau,Galaxy 24/6/8 R2
+Calvin Chow,2,1,Nicco Zaragoza,Galaxy 24/6/8 R2
+Matt Griffin,2,1,Donghun Kang,Galaxy 24/6/8 R3
+Brian Huynh,2,1,Jose Reyes,Galaxy 24/6/8 R3
+Gustavo Romero,2,0,Andy Tsang,Galaxy 24/6/8 R3
+Mack McGhee,0,2,Calvin Chow,Galaxy 24/6/8 R3
+Johnston Pau,1,2,Nathan Dizon,Galaxy 24/6/8 R3
+Alexandro Morales,2,0,Alvaro Lopez,Galaxy 24/6/8 R3
+Alex Frank,1,2,Erik Chau,Galaxy 24/6/8 R3
+Jenner Jones,2,1,Daniel Nath,Galaxy 24/6/8 R3
+Jair Manzanilla,0,2,Ryan Dahili,Galaxy 24/6/8 R3
+Tuong Lai,1,2,Ismael Zamora,Galaxy 24/6/8 R3
+Brian Huynh,1,2,Gustavo Romero,Galaxy 24/6/8 R4
+Matt Griffin,2,1,Jenner Jones,Galaxy 24/6/8 R4
+Andy Tsang,2,1,Ryan Dahili,Galaxy 24/6/8 R4
+Nathan Dizon,0,2,Donghun Kang,Galaxy 24/6/8 R4
+Alexandro Morales,1,2,Calvin Chow,Galaxy 24/6/8 R4
+Nicco Zaragoza,0,2,Jose Reyes,Galaxy 24/6/8 R4
+Daniel Nath,2,1,Erik Chau,Galaxy 24/6/8 R4
+Mack McGhee,2,0,Johnston Pau,Galaxy 24/6/8 R4
+Alex Frank,0,2,Alvaro Lopez,Galaxy 24/6/8 R4
+Ismael Zamora,1,2,Jair Manzanilla,Galaxy 24/6/8 R4
+Gustavo Romero,1,2,Jenner Jones,Galaxy 24/6/8 T8
+Donghun Kang,2,1,Calvin Chow,Galaxy 24/6/8 T8
+Matt Griffin,0,2,Brian Huynh,Galaxy 24/6/8 T8
+Andy Tsang,2,0,Alexandro Morales,Galaxy 24/6/8 T8
+Jenner Jones,2,1,Donghun Kang,Galaxy 24/6/8 T4
+Brian Huynh,1,2,Andy Tsang,Galaxy 24/6/8 T4
+Jenner Jones,2,0,Andy Tsang,Galaxy 24/6/8 T2
+Alexandro Morales,2,0,Brian Huynh,88 24/6/9 R1
+Tenzing Kunsang,0,2,Mack McGhee,88 24/6/9 R1
+Kenneth Kuo,2,1,Samuel Delgado,88 24/6/9 R1
+Gustavo Romero,2,0,Erik Chau,88 24/6/9 R1
+Jose Reyes,1,2,Sean Yamazaki,88 24/6/9 R1
+Anthony Gonsalves,2,1,Matt Griffin,88 24/6/9 R1
+Calvin Chow,2,1,Sebastian Rivera,88 24/6/9 R1
+Sean Yamazaki,0,2,Mack McGhee,88 24/6/9 R2
+Kenneth Kuo,1,2,Gustavo Romero,88 24/6/9 R2
+Anthony Gonsalves,0,2,Alexandro Morales,88 24/6/9 R2
+Calvin Chow,0,2,Tenzing Kunsang,88 24/6/9 R2
+Jose Reyes,2,0,Erik Chau,88 24/6/9 R2
+Brian Huynh,2,0,Samuel Delgado,88 24/6/9 R2
+Sebastian Rivera,2,1,Matt Griffin,88 24/6/9 R2
+Gustavo Romero,2,1,Alexandro Morales,88 24/6/9 R3
+Sebastian Rivera,2,0,Mack McGhee,88 24/6/9 R3
+Calvin Chow,2,1,Sean Yamazaki,88 24/6/9 R3
+Tenzing Kunsang,2,0,Jose Reyes,88 24/6/9 R3
+Anthony Gonsalves,1,2,Kenneth Kuo,88 24/6/9 R3
+Erik Chau,1,2,Brian Huynh,88 24/6/9 R3
+Samuel Delgado,2,1,Matt Griffin,88 24/6/9 R3
+Sebastian Rivera,0,2,Gustavo Romero,88 24/6/9 R4
+Calvin Chow,2,1,Alexandro Morales,88 24/6/9 R4
+Kenneth Kuo,2,1,Tenzing Kunsang,88 24/6/9 R4
+Brian Huynh,2,1,Mack McGhee,88 24/6/9 R4
+Samuel Delgado,0,2,Sean Yamazaki,88 24/6/9 R4
+Anthony Gonsalves,0,2,Jose Reyes,88 24/6/9 R4
+Erik Chau,0,2,Matt Griffin,88 24/6/9 R4
+Gustavo Romero,2,0,Mack McGhee,88 24/6/9 T8
+Alexandro Morales,0,2,Brian Huynh,88 24/6/9 T8
+Calvin Chow,2,0,Sebastian Rivera,88 24/6/9 T8
+Kenneth Kuo,0,2,Tenzing Kunsang,88 24/6/9 T8
+Gustavo Romero,2,1,Brian Huynh,88 24/6/9 T4
+Calvin Chow,2,1,Tenzing Kunsang,88 24/6/9 T4
+Gustavo Romero,2,0,Calvin Chow,88 24/6/9 T2
+Nick Varbanets,2,0,Jesse Rhee,Tofu 24/6/15 R1
+Tuong Lai,0,2,Sam Hoang,Tofu 24/6/15 R1
+Alvin Phan,2,1,Dan Machado,Tofu 24/6/15 R1
+Vincent Tran,2,1,Matt Griffin,Tofu 24/6/15 R1
+Alvin Phan,0,2,Donghun Kang,Tofu 24/6/15 R2
+Nick Varbanets,1,2,Vincent Tran,Tofu 24/6/15 R2
+Jesse Rhee,0,2,Tuong Lai,Tofu 24/6/15 R2
+Dan Machado,0,2,Matt Griffin,Tofu 24/6/15 R2
+Vincent Tran,2,1,Donghun Kang,Tofu 24/6/15 R3
+Tuong Lai,1,2,Alvin Phan,Tofu 24/6/15 R3
+Nick Varbanets,1,2,Matt Griffin,Tofu 24/6/15 R3
+Dan Machado,1,2,Jesse Rhee,Tofu 24/6/15 R3
+Vincent Tran,1,2,Alvin Phan,Tofu 24/6/15 R4
+Donghun Kang,2,1,Tuong Lai,Tofu 24/6/15 R4
+Matt Griffin,2,1,Jesse Rhee,Tofu 24/6/15 R4
+Nick Varbanets,2,1,Dan Machado,Tofu 24/6/15 R4
+Nicco Zaragoza,1,2,Jair Manzanilla,Galaxy 24/6/15 R1
+Alvaro Lopez,2,0,Jenner Jones,Galaxy 24/6/15 R1
+Gustavo Romero,2,0,Spencer Porter,Galaxy 24/6/15 R1
+Janiel Martinez,2,1,Daniel Nath,Galaxy 24/6/15 R1
+Alvaro Lopez,2,1,Jair Manzanilla,Galaxy 24/6/15 R2
+Janiel Martinez,0,2,Gustavo Romero,Galaxy 24/6/15 R2
+Daniel Nath,2,1,Spencer Porter,Galaxy 24/6/15 R2
+Nicco Zaragoza,0,2,Jenner Jones,Galaxy 24/6/15 R2
+Gustavo Romero,2,0,Alvaro Lopez,Galaxy 24/6/15 R3
+Jenner Jones,2,0,Daniel Nath,Galaxy 24/6/15 R3
+Janiel Martinez,2,1,Jair Manzanilla,Galaxy 24/6/15 R3
+Nicco Zaragoza,2,0,Spencer Porter,Galaxy 24/6/15 R3
+Sebastian Rivera,1,2,Alex Baldwin,88 24/6/16 R1
+Tenzing Kunsang,2,1,Matt Griffin,88 24/6/16 R1
+Eric Baldwin,1,2,Qiu Yang,88 24/6/16 R1
+Brian Huynh,2,1,Kenneth Kuo,88 24/6/16 R1
+Gustavo Romero,2,1,Tuong Lai,88 24/6/16 R1
+Jose Reyes,2,1,Justin Le,88 24/6/16 R1
+Allen Wu,0,2,JJ Wolf,88 24/6/16 R1
+JJ Wolf,2,1,Donghun Kang,88 24/6/16 R2
+Jose Reyes,2,1,Qiu Yang,88 24/6/16 R2
+Matt Griffin,2,1,Tuong Lai,88 24/6/16 R2
+Tenzing Kunsang,1,2,Gustavo Romero,88 24/6/16 R2
+Sebastian Rivera,0,2,Eric Baldwin,88 24/6/16 R2
+Brian Huynh,1,2,Alex Baldwin,88 24/6/16 R2
+Justin Le,0,2,Kenneth Kuo,88 24/6/16 R2
+Donghun Kang,2,0,Kenneth Kuo,88 24/6/16 R3
+Matt Griffin,2,0,Qiu Yang,88 24/6/16 R3
+Jose Reyes,1,2,Gustavo Romero,88 24/6/16 R3
+Brian Huynh,2,0,Allen Wu,88 24/6/16 R3
+Tenzing Kunsang,2,1,Eric Baldwin,88 24/6/16 R3
+JJ Wolf,2,0,Alex Baldwin,88 24/6/16 R3
+Sebastian Rivera,2,1,Allen Wu,88 24/6/16 R4
+Tenzing Kunsang,1,2,Donghun Kang,88 24/6/16 R4
+Brian Huynh,2,0,Jose Reyes,88 24/6/16 R4
+Matt Griffin,1,2,Alex Baldwin,88 24/6/16 R4
+Gustavo Romero,1,2,JJ Wolf,89 24/6/16 R4
+Qiu Yang,2,0,Kenneth Kuo,88 24/6/16 R4
+Donghun Kang,2,0,Alex Baldwin,88 24/6/16 T4
+Gustavo Romero,2,0,JJ Wolf,88 24/6/16 T4
+Donghun Kang,2,0,Gustavo Romero,88 24/6/16 T2
+Jose Reyes,2,0,Donghun Kang,Discord 24/6/19 R1
+Tuong Lai,2,1,Sam Hoang,Discord 24/6/19 R1
+Joseph Chung,0,2,Matt Griffin,Discord 24/6/19 R1
+Jose Reyes,1,2,Matt Griffin,Discord 24/6/19 R2
+Donghun Kang,2,0,Tuong Lai,Discord 24/6/19 R2
+Joseph Chung,2,0,Sam Hoang,Discord 24/6/19 R2
+Tuong Lai,2,0,Matt Griffin,Discord 24/6/19 R3
+Joseph Chung,1,2,Jose Reyes,Discord 24/6/19 R3
+Donghun Kang,2,0,Sam Hoang,Discord 24/6/19 R3
+Jose Reyes,1,2,Matt Griffin,Discord 24/6/19 12
+Donghun Kang,1,2,Tuong Lai,Discord 24/6/19 34
+Claudio Vacloudio,2,1,Daniel Nath,Galaxy 24/6/22 R1
+Brian Huynh,1,2,Alvin Phan,Galaxy 24/6/22 R1
+Donghun Kang,0,2,Klint Pangilinan,Galaxy 24/6/22 R1
+Jerome Daniels,2,0,George Callacna,Galaxy 24/6/22 R1
+Alvaro Lopez,2,1,Jose Reyes,Galaxy 24/6/22 R1
+Garaku Obloma,0,2,Gustavo Romero,Galaxy 24/6/22 R1
+Ryan Dahili,2,1,Jenner Jones,Galaxy 24/6/22 R1
+Alvaro Lopez,0,2,Alvin Phan,Galaxy 24/6/22 R2
+Ryan Dahili,2,0,Nicco Zaragoza,Galaxy 24/6/22 R2
+Jerome Daniels,1,2,Claudio Vacloudio,Galaxy 24/6/22 R2
+Gustavo Romero,1,2,Klint Pangilinan,Galaxy 24/6/22 R2
+Garaku Obloma,0,2,Donghun Kang,Galaxy 24/6/22 R2
+Brian Huynh,0,2,George Callacna,Galaxy 24/6/22 R2
+Jenner Jones,1,2,Jose Reyes,Galaxy 24/6/22 R2
+Ryan Dahili,2,0,Claudio Vacloudio,Galaxy 24/6/22 R3
+Alvin Phan,2,1,Klint Pangilinan,Galaxy 24/6/22 R3
+Jerome Daniels,2,0,Daniel Nath,Galaxy 24/6/22 R3
+Jose Reyes,0,2,Donghun Kang,Galaxy 24/6/22 R3
+Nicco Zaragoza,0,2,George Callacna,Galaxy 24/6/22 R3
+Alvaro Lopez,0,2,Gustavo Romero,Galaxy 24/6/22 R3
+Garaku Obloma,1,2,Brian Huynh,Galaxy 24/6/22 R3
+Ryan Dahili,2,1,Alvin Phan,Galaxy 24/6/22 T2
+Alexandro Morales,2,0,Klint Pangilinan,88 24/6/23 R1
+JJ Wolf,1,2,Brian Huynh,88 24/6/23 R1
+Sebastian Rivera,0,2,Alex Baldwin,88 24/6/23 R1
+Gustavo Romero,2,1,Mack McGhee,88 24/6/23 R1
+Johnston Pau,2,0,Vincent Tran,88 24/6/23 R1
+Samuel Delgado,2,1,Alvin Phan,88 24/6/23 R1
+Andy Tsang,2,0,Matt Griffin,88 24/6/23 R1
+Eric Baldwin,2,1,Sam Hoang,88 24/6/23 R1
+Calvin Chow,2,1,Jose Reyes,88 24/6/23 R1
+Andy Tsang,2,1,Johnston Pau,88 24/6/23 R2
+Alex Baldwin,2,1,Tuong Lai,88 24/6/23 R2
+Calvin Chow,2,1,Samuel Delgado,88 24/6/23 R2
+Gustavo Romero,2,1,Eric Baldwin,88 24/6/23 R2
+Alexandro Morales,1,2,Brian Huynh,88 24/6/23 R2
+Jose Reyes,0,2,Vincent Tran,88 24/6/23 R2
+JJ Wolf,2,1,Klint Pangilinan,88 24/6/23 R2
+Sebastian Rivera,1,2,Alvin Phan,88 24/6/23 R2
+Sam Hoang,1,2,Matt Griffin,88 24/6/23 R2
+Brian Huynh,2,0,Gustavo Romero,88 24/6/23 R3
+Calvin Chow,2,1,Andy Tsang,88 24/6/23 R3
+Alex Baldwin,0,2,Matt Griffin,88 24/6/23 R3
+Eric Baldwin,1,2,Mack McGhee,88 24/6/23 R3
+Tuong Lai,2,1,Vincent Tran,88 24/6/23 R3
+Alexandro Morales,2,1,Alvin Phan,88 24/6/23 R3
+Johnston Pau,2,0,Samuel Delgado,88 24/6/23 R3
+JJ Wolf,2,0,Sam Hoang,88 24/6/23 R3
+Sebastian Rivera,2,0,Jose Reyes,88 24/6/23 R3
+Calvin Chow,1,2,Brian Huynh,88 24/6/23 R4
+JJ Wolf,2,1,Matt Griffin,88 24/6/23 R4
+Johnston Pau,2,1,Mack McGhee,88 24/6/23 R4
+Andy Tsang,1,2,Gustavo Romero,88 24/6/23 R4
+Alex Baldwin,1,2,Alexandro Morales,88 24/6/23 R4
+Sebastian Rivera,0,2,Tuong Lai,88 24/6/23 R4
+Alvin Phan,2,1,Klint Pangilinan,88 24/6/23 R4
+Eric Baldwin,0,2,Vincent Tran,88 24/6/23 R4
+Jose Reyes,2,0,Samuel Delgado,88 24/6/23 R4
+Brian Huynh,2,1,Calvin Chow,88 24/6/23 T4
+Gustavo Romero,0,2,Alexandro Morales,88 24/6/23 T4
+Brian Huynh,0,2,Alexandro Morales,88 24/6/23 T2
+Abel Urena,2,1,Sam Hoang,Tofu 24/6/29 R1
+Donghun Kang,2,1,Martin Ortiz,Tofu 24/6/29 R1
+Tuong Lai,0,2,Yishan McNabb,Tofu 24/6/29 R1
+Melanie Ma,1,2,Nick Varbanets,Tofu 24/6/29 R1
+Donghun Kang,2,1,Cristian Lorenzana,Tofu 24/6/29 R2
+Nick Varbanets,2,1,Yishan McNabb,Tofu 24/6/29 R2
+Abel Urena,1,2,Tuong Lai,Tofu 24/6/29 R2
+Sam Hoang,2,1,Melanie Ma,Tofu 24/6/29 R2
+Donghun Kang,1,2,Nick Varbanets,Tofu 24/6/29 R3
+Martin Ortiz,2,1,Yishan McNabb,Tofu 24/6/29 R3
+Tuong Lai,1,2,Sam Hoang,Tofu 24/6/29 R3
+Abel Urena,0,2,Cristian Lorenzana,Tofu 24/6/29 R3
+Gustavo Romero,0,2,Nima Movasseshi,Galaxy 24/6/29 R1
+Mark Tayo,1,2,Jose Reyes,Galaxy 24/6/29 R1
+Aymen Matari,2,0,Nicco Zaragoza,Galaxy 24/6/29 R1
+Andy Tsang,2,1,Jenner Jones,Galaxy 24/6/29 R1
+Ibrahim Dusmez,0,2,Daniel Nath,Galaxy 24/6/29 R1
+Nima Movasseshi,2,1,Daniel Nath,Galaxy 24/6/29 R2
+Aymen Matari,1,2,Jose Reyes,Galaxy 24/6/29 R2
+Andy Tsang,2,0,Ibrahim Dusmez,Galaxy 24/6/29 R2
+Nicco Zaragoza,2,1,Gustavo Romero,Galaxy 24/6/29 R2
+Jenner Jones,2,1,Mark Tayo,Galaxy 24/6/29 R2
+Andy Tsang,2,0,Jose Reyes,Galaxy 24/6/29 R3
+Nicco Zaragoza,0,2,Nima Movasseshi,Galaxy 24/6/29 R3
+Jenner Jones,2,1,Daniel Nath,Galaxy 24/6/29 R3
+Aymen Matari,1,2,Gustavo Romero,Galaxy 24/6/29 R3
+Ryan Dahili,2,1,Grant Groshek,88 24/6/30 R1
+Gustavo Romero,2,0,Matt Griffin,88 24/6/30 R1
+Calvin Chow,1,2,Austin Baylor,88 24/6/30 R1
+Alexandro Morales,1,2,Daniel Roa,88 24/6/30 R1
+Mark Tayo,0,2,Brian Huynh,88 24/6/30 R1
+Raymond Chen,1,2,Alvin Phan,88 24/6/30 R1
+Andy Tsang,2,0,Samuel Delgado,88 24/6/30 R1
+Anthony Gonsalves,1,2,Tenzing Kunsang,88 24/6/30 R1
+Donghun Kang,2,1,Tuong Lai,88 24/6/30 R1
+Sebastian Rivera,1,2,Jesse Rhee,88 24/6/30 R1
+Gustavo Romero,0,2,Alvin Phan,88 24/6/30 R2
+Ryan Dahili,0,2,Donghun Kang,88 24/6/30 R2
+Jesse Rhee,1,2,Daniel Roa,88 24/6/30 R2
+Andy Tsang,1,2,Brian Huynh,88 24/6/30 R2
+Tenzing Kunsang,2,1,Austin Baylor,88 24/6/30 R2
+Calvin Chow,2,0,Tuong Lai,88 24/6/30 R2
+Mark Tayo,2,0,Grant Groshek,88 24/6/30 R2
+Anthony Gonsalves,2,0,Raymond Chen,88 24/6/30 R2
+Alexandro Morales,1,2,Matt Griffin,88 24/6/30 R2
+Sebastian Rivera,1,2,Samuel Delgado,88 24/6/30 R2
+Tenzing Kunsang,1,2,Daniel Roa,88 24/6/30 R3
+Donghun Kang,0,2,Alvin Phan,88 24/6/30 R3
+Gustavo Romero,2,1,Brian Huynh,88 24/6/30 R3
+Ryan Dahili,1,2,Samuel Delgado,88 24/6/30 R3
+Anthony Gonsalves,2,1,Jesse Rhee,88 24/6/30 R3
+Mark Tayo,2,1,Austin Baylor,88 24/6/30 R3
+Andy Tsang,2,0,Matt Griffin,88 24/6/30 R3
+Calvin Chow,2,1,Sebastian Rivera,88 24/6/30 R3
+Raymond Chen,1,2,Tuong Lai,88 24/6/30 R3
+Alexandro Morales,2,1,Grant Groshek,88 24/6/30 R3
+Daniel Roa,1,2,Alvin Phan,88 24/6/30 R4
+Andy Tsang,2,1,Donghun Kang,88 24/6/30 R4
+Brian Huynh,2,1,Samuel Delgado,88 24/6/30 R4
+Anthony Gonsalves,0,2,Gustavo Romero,88 24/6/30 R4
+Tenzing Kunsang,0,2,Mark Tayo,88 24/6/30 R4
+Calvin Chow,2,1,Ryan Dahili,88 24/6/30 R4
+Alexandro Morales,2,1,Tuong Lai,88 24/6/30 R4
+Jesse Rhee,2,0,Austin Baylor,88 24/6/30 R4
+Raymond Chen,1,2,Matt Griffin,88 24/6/30 R4
+Sebastian Rivera,2,0,Grant Groshek,88 24/6/30 R4
+Alvin Phan,0,2,Tenzing Kunsang,88 24/6/30 T8
+Daniel Roa,2,1,Andy Tsang,88 24/6/30 T8
+Brian Huynh,0,2,Calvin Chow,88 24/6/30 T8
+Gustavo Romero,2,1,Mark Tayo,88 24/6/30 T8
+Tenzing Kunsang,0,2,Daniel Roa,88 24/6/30 T4
+Calvin Chow,0,2,Gustavo Romero,88 24/6/30 T4
+Daniel Roa,2,1,Gustavo Romero,88 24/6/30 T2
+Austin Baylor,1,2,Alexandro Morales,88 24/7/7 R1
+Jose Reyes,2,0,Donghun Kang,88 24/7/7 R1
+Sebastian Rivera,0,2,Chris Tran,88 24/7/7 R1
+Ryan Dahili,2,0,Samuel Delgado,88 24/7/7 R1
+Anthony Gonsalves,2,1,Brian Huynh,88 24/7/7 R1
+Andy Tsang,2,1,Gustavo Romero,88 24/7/7 R1
+Sean Yamazaki,2,1,Tuong Lai,88 24/7/7 R1
+Grant Groshek,0,2,Mack McGhee,88 24/7/7 R1
+Justin Le,1,2,Eric Baldwin,88 24/7/7 R1
+Eric Baldwin,1,2,Mack McGhee,88 24/7/7 R2
+Anthony Gonsalves,2,1,Andy Tsang,88 24/7/7 R2
+Justin Le,1,2,Alexandro Morales,88 24/7/7 R2
+Chris Tran,1,2,Jose Reyes,88 24/7/7 R2
+Ryan Dahili,2,1,Sean Yamazaki,88 24/7/7 R2
+Donghun Kang,2,1,Samuel Delgado,88 24/7/7 R2
+Sebastian Rivera,1,2,Gustavo Romero,88 24/7/7 R2
+Austin Baylor,1,2,Brian Huynh,88 24/7/7 R2
+Jose Reyes,2,0,Mack McGhee,88 24/7/7 R3
+Anthony Gonsalves,2,0,Ryan Dahili,88 24/7/7 R3
+Alexandro Morales,2,1,Eric Baldwin,88 24/7/7 R3
+Andy Tsang,2,0,Tuong Lai,88 24/7/7 R3
+Donghun Kang,2,0,Brian Huynh,88 24/7/7 R3
+Justin Le,0,2,Gustavo Romero,88 24/7/7 R3
+Chris Tran,2,1,Sean Yamazaki,88 24/7/7 R3
+Samuel Delgado,2,1,Grant Groshek,88 24/7/7 R3
+Austin Baylor,0,2,Sebastian Rivera,88 24/7/7 R3
+Jose Reyes,0,2,Alexandro Morales,88 24/7/7 R4
+Anthony Gonsalves,2,1,Chris Tran,88 24/7/7 R4
+Ryan Dahili,2,0,Gustavo Romero,88 24/7/7 R4
+Donghun Kang,1,2,Mack McGhee,88 24/7/7 R4
+Andy Tsang,2,0,Sebastian Rivera,88 24/7/7 R4
+Brian Huynh,0,2,Eric Baldwin,88 24/7/7 R4
+Justin Le,1,2,Tuong Lai,88 24/7/7 R4
+Samuel Delgado,1,2,Sean Yamazaki,88 24/7/7 R4
+Austin Baylor,1,2,Grant Groshek,88 24/7/7 R4
+Anthony Gonsalves,2,1,Eric Baldwin,88 24/7/7 T8
+Ryan Dahili,2,0,Mack McGhee,88 24/7/7 T8
+Chris Tran,0,2,Alexandro Morales,88 24/7/7 T8
+Andy Tsang,2,0,Jose Reyes,88 24/7/7 T8
+Anthony Gonsalves,0,2,Ryan Dahili,88 24/7/7 T4
+Alexandro Morales,1,2,Andy Tsang,88 24/7/7 T4
+Ryan Dahili,0,2,Andy Tsang,88 24/7/7 T2
+Tuong Lai,0,2,Matt Griffin,Fire 24/7/13 R1
+Sam Hoang,2,1,Austin Baylor,Fire 24/7/13 R1
+Dan Machado,2,1,Jesse Rhee,Fire 24/7/13 R1
+Elliot Ong,2,1,Grant Groshek,Fire 24/7/13 R1
+Abel Urena,1,2,Donghun Kang,Fire 24/7/13 R1
+Martin Ortiz,2,0,Brian Huynh,Fire 24/7/13 R1
+Matt Griffin,0,2,Donghun Kang,Fire 24/7/13 R2
+Martin Ortiz,2,0,Dan Machado,Fire 24/7/13 R2
+Elliot Ong,2,1,Sam Hoang,Fire 24/7/13 R2
+Grant Groshek,1,2,Brian Huynh,Fire 24/7/13 R2
+Abel Urena,2,0,Jesse Rhee,Fire 24/7/13 R2
+Tuong Lai,2,1,Austin Baylor,Fire 24/7/13 R2
+Martin Ortiz,2,1,Elliot Ong,Fire 24/7/13 R3
+Donghun Kang,2,1,Brian Huynh,Fire 24/7/13 R3
+Abel Urena,0,2,Matt Griffin,Fire 24/7/13 R3
+Dan Machado,2,0,Sam Hoang,Fire 24/7/13 R3
+Tuong Lai,2,1,Grant Groshek,Fire 24/7/13 R3
+Austin Baylor,2,0,Jesse Rhee,Fire 24/7/13 R3
+Martin Ortiz,2,0,Donghun Kang,Fire 24/7/13 R4
+Dan Machado,0,2,Brian Huynh,Fire 24/7/13 R4
+Matt Griffin,0,2,Elliot Ong,Fire 24/7/13 R4
+Tuong Lai,2,1,Sam Hoang,Fire 24/7/13 R4
+Abel Urena,2,1,Austin Baylor,Fire 24/7/13 R4
+Jesse Rhee,2,0,Grant Groshek,Fire 24/7/13 R4
+Alvaro Lopez,2,1,Nicco Zaragoza,Galaxy 24/7/13 R1
+Mark Tayo,1,2,Gustavo Romero,Galaxy 24/7/13 R1
+Andy Tsang,1,2,Nima Movasseshi,Galaxy 24/7/13 R1
+Claudio Vacloudio,0,2,Daniel Nath,Galaxy 24/7/13 R1
+Alvaro Lopez,1,2,Gustavo Romero,Galaxy 24/7/13 R2
+Nima Movasseshi,2,0,Daniel Nath,Galaxy 24/7/13 R2
+Nicco Zaragoza,2,1,Claudio Vacloudio,Galaxy 24/7/13 R2
+Andy Tsang,2,1,Mark Tayo,Galaxy 24/7/13 R2
+Gustavo Romero,2,0,Nima Movasseshi,Galaxy 24/7/13 R3
+Alvaro Lopez,0,2,Daniel Nath,Galaxy 24/7/13 R3
+Andy Tsang,2,0,Nicco Zaragoza,Galaxy 24/7/13 R3
+Mark Tayo,1,2,Claudio Vacloudio,Galaxy 24/7/13 R3
+Mack McGhee,1,2,Samuel Delgado,Destine 24/7/14 R1
+Johnston Pau,1,2,Nima Movasseshi,Destine 24/7/14 R1
+Donghun Kang,1,2,Tuong Lai,Destine 24/7/14 R1
+Sean Martinez,2,1,Brian Huynh,Destine 24/7/14 R1
+Andy Tsang,1,2,Jose Reyes,Destine 24/7/14 R1
+Anthony Gonsalves,2,0,Sam Hoang,Destine 24/7/14 R1
+Duy Pham,0,2,Sean Yamazaki,Destine 24/7/14 R1
+Sean Yamazaki,0,2,Tuong Lai,Destine 24/7/14 R2
+Sean Martinez,0,2,Jose Reyes,Destine 24/7/14 R2
+Anthony Gonsalves,2,1,Samuel Delgado,Destine 24/7/14 R2
+Donghun Kang,2,0,Nima Movasseshi,Destine 24/7/14 R2
+Mack McGhee,2,1,Johnston Pau,Destine 24/7/14 R2
+Brian Huynh,2,1,Sam Hoang,Destine 24/7/14 R2
+Andy Tsang,2,1,Duy Pham,Destine 24/7/14 R2
+Jose Reyes,2,0,Tuong Lai,Destine 24/7/14 R3
+Anthony Gonsalves,2,1,Mack McGhee,Destine 24/7/14 R3
+Sean Martinez,1,2,Samuel Delgado,Destine 24/7/14 R3
+Brian Huynh,2,0,Sean Yamazaki,Destine 24/7/14 R3
+Andy Tsang,1,2,Donghun Kang,Destine 24/7/14 R3
+Duy Pham,1,2,Nima Movasseshi,Destine 24/7/14 R3
+Johnston Pau,1,2,Sam Hoang,Destine 24/7/14 R3
+Anthony Gonsalves,0,2,Jose Reyes,Destine 24/7/14 R4
+Donghun Kang,0,2,Samuel Delgado,Destine 24/7/14 R4
+Nima Movasseshi,2,1,Tuong Lai,Destine 24/7/14 R4
+Mack McGhee,2,1,Brian Huynh,Destine 24/7/14 R4
+Andy Tsang,2,0,Sam Hoang,Destine 24/7/14 R4
+Sean Martinez,0,2,Sean Yamazaki,Destine 24/7/14 R4
+Johnston Pau,0,2,Duy Pham,Destine 24/7/14 R4
+Jose Reyes,2,1,Brian Huynh,Destine 24/7/14 T4
+Anthony Gonsalves,2,1,Samuel Delgado,Destine 24/7/14 T4
+Jose Reyes,1,2,Anthony Gonsalves,Destine 24/7/14 T2
+Kyle Williams,2,1,Ismael Zamora,Galaxy 24/7/20 R1
+Sean Martinez,0,2,Daniel Nath,Galaxy 24/7/20 R1
+Ryan Dahili,2,0,Claudio Vacloudio,Galaxy 24/7/20 R1
+Alvaro Lopez,0,2,Gustavo Romero,Galaxy 24/7/20 R1
+Ryan Dahili,2,1,Daniel Nath,Galaxy 24/7/20 R2
+Sean Martinez,2,0,Claudio Vacloudio,Galaxy 24/7/20 R2
+Gustavo Romero,2,0,Kyle Williams,Galaxy 24/7/20 R2
+Alvaro Lopez,2,0,Ismael Zamora,Galaxy 24/7/20 R2
+Ryan Dahili,2,0,Gustavo Romero,Galaxy 24/7/20 R3
+Alvaro Lopez,1,2,Sean Martinez,Galaxy 24/7/20 R3
+Kyle Williams,2,1,Daniel Nath,Galaxy 24/7/20 R3
+Ismael Zamora,2,1,Claudio Vacloudio,Galaxy 24/7/20 R3
+Ryan Dahili,1,2,Alvin Phan,88 24/7/21 R1
+Sebastian Rivera,2,1,Alexandro Morales,88 24/7/21 R1
+Sean Yamazaki,0,2,Gustavo Romero,88 24/7/21 R1
+Gustavo Romero,1,2,Alvin Phan,88 24/7/21 R2
+Sebastian Rivera,1,2,Matt Griffin,88 24/7/21 R2
+Sean Yamazaki,0,2,Alexandro Morales,88 24/7/21 R2
+Matt Griffin,2,1,Alvin Phan,88 24/7/21 R3
+Sebastian Rivera,2,1,Ryan Dahili,88 24/7/21 R3
+Alexandro Morales,2,0,Gustavo Romero,88 24/7/21 R3
+Sam Hoang,2,1,Matt Griffin,MLK 24/7/27 R1
+Alvin Phan,2,1,Tuong Lai,MLK 24/7/27 R1
+Donghun Kang,2,0,Nick Varbanets,MLK 24/7/27 R1
+Alvin Phan,2,0,Sam Hoang,MLK 24/7/27 R2
+Matt Griffin,2,1,Nick Varbanets,MLK 24/7/27 R2
+Tuong Lai,0,2,Donghun Kang,MLK 24/7/27 R2
+Alvin Phan,0,2,Donghun Kang,MLK 24/7/27 R3
+Matt Griffin,2,0,Tuong Lai,MLK 24/7/27 R3
+Nick Varbanets,0,2,Sam Hoang,MLK 24/7/27 R3
+Kyle Williams,2,0,Daniel Nath,Galaxy 24/7/27 R1
+Ryan Dahili,1,2,Alvaro Lopez,Galaxy 24/7/27 R1
+Alvaro Lopez,2,1,Kyle Williams,Galaxy 24/7/27 R2
+Andy Tsang,0,2,Daniel Nath,Galaxy 24/7/27 R2
+Alvaro Lopez,1,2,Andy Tsang,Galaxy 24/7/27 R3
+Ryan Dahili,2,1,Kyle Williams,Galaxy 24/7/27 R3
+Andy Tsang,2,1,AJ,88 24/7/28 R1
+Mack McGhee,2,1,Joe,88 24/7/28 R1
+Mack McGhee,2,1,AJ,88 24/7/28 R2
+Andy Tsang,2,0,Joe,88 24/7/28 R2
+Mack McGhee,2,1,Andy Tsang,88 24/7/28 R3
+AJ,2,1,Joe,88 24/7/28 R3
+Matt Griffin,0,2,Tuong Lai,Fire 24/8/3 R1
+Teddy Tran,1,2,Brian Huynh,Fire 24/8/3 R1
+Alvin Phan,2,1,Andy Tsang,Fire 24/8/3 R1
+Tuong Lai,1,2,Alvin Phan,Fire 24/8/3 R2
+Brian Huynh,1,2,Andy Tsang,Fire 24/8/3 R2
+Teddy Tran,1,2,Matt Griffin,Fire 24/8/3 R2
+Alvin Phan,2,0,Matt Griffin,Fire 24/8/3 R3
+Brian Huynh,1,2,Tuong Lai,Fire 24/8/3 R3
+Teddy Tran,0,2,Andy Tsang,Fire 24/8/3 R3
+Mike Guernsey,2,0,Daniel Nath,Galaxy 24/8/3 R1
+Ryan Dahili,2,0,Jair Manzanilla,Galaxy 24/8/3 R1
+Alvaro Lopez,2,1,Nicco Zaragoza,Galaxy 24/8/3 R1
+Ryan Dahili,1,2,Alvaro Lopez,Galaxy 24/8/3 R2
+Mike Guernsey,2,1,Jair Manzanilla,Galaxy 24/8/3 R2
+Nicco Zaragoza,1,2,Daniel Nath,Galaxy 24/8/3 R2
+Alvaro Lopez,2,0,Mike Guernsey,Galaxy 24/8/3 R3
+Ryan Dahili,1,2,Daniel Nath,Galaxy 24/8/3 R3
+Nicco Zaragoza,1,2,Jair Manzanilla,Galaxy 24/8/3 R3
+Matt Griffin,2,1,JJ Wolf,88 24/8/4 R1
+Ryan Dahili,1,2,Anthony Gonsalves,88 24/8/4 R1
+Sebastian Rivera,0,2,Samuel Delgado,88 24/8/4 R1
+Andy Tsang,2,1,Aymen Matari,88 24/8/4 R1
+Tuong Lai,2,1,Alvaro Lopez,88 24/8/4 R1
+Jose Reyes,2,1,Donghun Kang,88 24/8/4 R1
+Brian Huynh,2,1,Eric Baldwin,88 24/8/4 R1
+Alvin Phan,1,2,Alexandro Morales,88 24/8/4 R1
+Mack McGhee,2,0,Alex Baldwin,88 24/8/4 R1
+Matt Griffin,0,2,Andy Tsang,88 24/8/4 R2
+Sebastian Rivera,2,0,Eric Baldwin,88 24/8/4 R2
+Samuel Delgado,0,2,Anthony Gonsalves,88 24/8/4 R2
+Alvaro Lopez,0,2,Jose Reyes,88 24/8/4 R2
+Alvin Phan,1,2,Donghun Kang,88 24/8/4 R2
+Alexandro Morales,1,2,Brian Huynh,88 24/8/4 R2
+Tuong Lai,1,2,Mack McGhee,88 24/8/4 R2
+JJ Wolf,2,0,Aymen Matari,88 24/8/4 R2
+Brian Huynh,2,0,Andy Tsang,88 24/8/4 R3
+Matt Griffin,2,1,Samuel Delgado,88 24/8/4 R3
+Anthony Gonsalves,2,1,Mack McGhee,88 24/8/4 R3
+Donghun Kang,2,0,Ryan Dahili,88 24/8/4 R3
+Sebastian Rivera,1,2,Alexandro Morales,88 24/8/4 R3
+JJ Wolf,2,1,Jose Reyes,88 24/8/4 R3
+Matt Griffin,2,0,Tuong Lai,88 24/8/4 R4
+Brian Huynh,2,0,Anthony Gonsalves,88 24/8/4 R4
+Sebastian Rivera,1,2,Ryan Dahili,88 24/8/4 R4
+Mack McGhee,1,2,JJ Wolf,88 24/8/4 R4
+Andy Tsang,2,0,Jose Reyes,88 24/8/4 R4
+Donghun Kang,2,1,Alexandro Morales,88 24/8/4 R4
+Samuel Delgado,1,2,Alvin Phan,88 24/8/4 R4
+Alexandro Morales,0,2,Andy Tsang,88 24/8/4 T8
+Brian Huynh,0,2,Jose Reyes,88 24/8/4 T8
+Matt Griffin,1,2,Donghun Kang,88 24/8/4 T8
+JJ Wolf,0,2,Anthony Gonsalves,88 24/8/4 T8
+Jose Reyes,2,0,Donghun Kang,88 24/8/4 T4
+Andy Tsang,2,1,Anthony Gonsalves,88 24/8/4 T4
+Andy Tsang,0,2,Jose Reyes,88 24/8/4 T2
+Alexandro Morales,2,0,Tuong Lai,88 24/8/11 R1
+Andy Tsang,2,0,Ethan,88 24/8/11 R1
+Brian Huynh,0,2,Samuel Delgado,88 24/8/11 R1
+Alvaro Lopez,2,1,Alvin Phan,88 24/8/11 R1
+Mack McGhee,2,0,Anthony Gonsalves,88 24/8/11 R1
+Sean Yamazaki,2,0,Mike Biodew,88 24/8/11 R1
+Nima Movasseshi,2,1,Gustavo Romero,88 24/8/11 R1
+Donghun Kang,2,0,Ryan Dahili,88 24/8/11 R1
+Alexandro Morales,2,0,Donghun Kang,88 24/8/11 R2
+Andy Tsang,1,2,Samuel Delgado,88 24/8/11 R2
+Brian Huynh,0,2,Tuong Lai,88 24/8/11 R2
+Alvaro Lopez,2,1,Sean Yamazaki,88 24/8/11 R2
+Anthony Gonsalves,2,0,Alvin Phan,88 24/8/11 R2
+Ethan,2,1,Gustavo Romero,88 24/8/11 R2
+Mike Biodew,1,2,Ryan Dahili,88 24/8/11 R2
+Nima Movasseshi,1,2,Mack McGhee,88 24/8/11 R2
+Alexandro Morales,2,1,Mack McGhee,88 24/8/11 R3
+Andy Tsang,2,0,Anthony Gonsalves,88 24/8/11 R3
+Brian Huynh,2,1,Sean Yamazaki,88 24/8/11 R3
+Alvaro Lopez,2,1,Samuel Delgado,88 24/8/11 R3
+Tuong Lai,0,2,Alvin Phan,88 24/8/11 R3
+Ethan,2,1,Mike Biodew,88 24/8/11 R3
+Nima Movasseshi,2,1,Donghun Kang,88 24/8/11 R3
+Ryan Dahili,2,0,Gustavo Romero,88 24/8/11 R3
+Alexandro Morales,1,2,Alvaro Lopez,88 24/8/11 R4
+Andy Tsang,1,2,Brian Huynh,88 24/8/11 R4
+Tuong Lai,2,1,Mike Biodew,88 24/8/11 R4
+Anthony Gonsalves,1,2,Sean Yamazaki,88 24/8/11 R4
+Ethan,0,2,Alvin Phan,88 24/8/11 R4
+Ryan Dahili,1,2,Mack McGhee,88 24/8/11 R4
+Donghun Kang,2,1,Gustavo Romero,88 24/8/11 R4
+Nima Movasseshi,1,2,Samuel Delgado,88 24/8/11 R4
+Andy Tsang,2,0,Alvaro Lopez,88 24/8/11 T8
+Brian Huynh,2,0,Mack McGhee,88 24/8/11 T8
+Nima Movasseshi,2,1,Alexandro Morales,88 24/8/11 T8
+Samuel Delgado,2,0,Sean Yamazaki,88 24/8/11 T8
+Tuong Lai,0,2,Matt Griffin,Tofu 24/8/16 R1
+Dan Machado,1,2,Kevin Cossu,Tofu 24/8/16 R1
+Teddy Tran,0,2,Alvin Phan,Tofu 24/8/16 R1
+Sam Hoang,0,2,Ryan Dahili,Tofu 24/8/16 R1
+Matt Griffin,2,1,Ryan Dahili,Tofu 24/8/16 R2
+Alvin Phan,2,1,Kevin Cossu,Tofu 24/8/16 R2
+Tuong Lai,2,1,Dan Machado,Tofu 24/8/16 R2
+Sam Hoang,1,2,Teddy Tran,Tofu 24/8/16 R2
+Matt Griffin,0,2,Alvin Phan,Tofu 24/8/16 R3
+Teddy Tran,1,1,Kevin Cossu,Tofu 24/8/16 R3
+Tuong Lai,0,2,Ryan Dahili,Tofu 24/8/16 R3
+Sam Hoang,1,2,Dan Machado,Tofu 24/8/16 R3
+Alvin Phan,2,1,Ryan Dahili,Tofu 24/8/16 R4
+Matt Griffin,2,1,Kevin Cossu,Tofu 24/8/16 R4
+Teddy Tran,0,2,Dan Machado,Tofu 24/8/16 R4
