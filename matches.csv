@@ -435,12 +435,12 @@ Alvaro Lopez,2,1,Kyle Williams,Galaxy 24/7/27 R2
 Andy Tsang,0,2,Daniel Nath,Galaxy 24/7/27 R2
 Alvaro Lopez,1,2,Andy Tsang,Galaxy 24/7/27 R3
 Ryan Dahili,2,1,Kyle Williams,Galaxy 24/7/27 R3
-Andy Tsang,2,1,AJ,88 24/7/28 R1
-Mack McGhee,2,1,Joe,88 24/7/28 R1
-Mack McGhee,2,1,AJ,88 24/7/28 R2
-Andy Tsang,2,0,Joe,88 24/7/28 R2
+Andy Tsang,2,1,AJ Gomez,88 24/7/28 R1
+Mack McGhee,2,1,Jovincent del Mundo,88 24/7/28 R1
+Mack McGhee,2,1,AJ Gomez,88 24/7/28 R2
+Andy Tsang,2,0,Jovincent del Mundo,88 24/7/28 R2
 Mack McGhee,2,1,Andy Tsang,88 24/7/28 R3
-AJ,2,1,Joe,88 24/7/28 R3
+AJ Gomez,2,1,Jovincent del Mundo,88 24/7/28 R3
 Matt Griffin,0,2,Tuong Lai,Fire 24/8/3 R1
 Teddy Tran,1,2,Brian Huynh,Fire 24/8/3 R1
 Alvin Phan,2,1,Andy Tsang,Fire 24/8/3 R1
@@ -497,7 +497,7 @@ Jose Reyes,2,0,Donghun Kang,88 24/8/4 T4
 Andy Tsang,2,1,Anthony Gonsalves,88 24/8/4 T4
 Andy Tsang,0,2,Jose Reyes,88 24/8/4 T2
 Alexandro Morales,2,0,Tuong Lai,88 24/8/11 R1
-Andy Tsang,2,0,Ethan,88 24/8/11 R1
+Andy Tsang,2,0,Ethan Mai,88 24/8/11 R1
 Brian Huynh,0,2,Samuel Delgado,88 24/8/11 R1
 Alvaro Lopez,2,1,Alvin Phan,88 24/8/11 R1
 Mack McGhee,2,0,Anthony Gonsalves,88 24/8/11 R1
@@ -509,7 +509,7 @@ Andy Tsang,1,2,Samuel Delgado,88 24/8/11 R2
 Brian Huynh,2,0,Tuong Lai,88 24/8/11 R2
 Alvaro Lopez,2,1,Sean Yamazaki,88 24/8/11 R2
 Anthony Gonsalves,2,0,Alvin Phan,88 24/8/11 R2
-Ethan,2,1,Gustavo Romero,88 24/8/11 R2
+Ethan Mai,2,1,Gustavo Romero,88 24/8/11 R2
 Mike Guernsey,1,2,Ryan Dahili,88 24/8/11 R2
 Nima Movasseghi,1,2,Mack McGhee,88 24/8/11 R2
 Alexandro Morales,2,1,Mack McGhee,88 24/8/11 R3
@@ -517,14 +517,14 @@ Andy Tsang,2,0,Anthony Gonsalves,88 24/8/11 R3
 Brian Huynh,2,1,Sean Yamazaki,88 24/8/11 R3
 Alvaro Lopez,2,1,Samuel Delgado,88 24/8/11 R3
 Tuong Lai,0,2,Alvin Phan,88 24/8/11 R3
-Ethan,2,1,Mike Guernsey,88 24/8/11 R3
+Ethan Mai,2,1,Mike Guernsey,88 24/8/11 R3
 Nima Movasseghi,2,1,Donghun Kang,88 24/8/11 R3
 Ryan Dahili,2,0,Gustavo Romero,88 24/8/11 R3
 Alexandro Morales,1,2,Alvaro Lopez,88 24/8/11 R4
 Andy Tsang,1,2,Brian Huynh,88 24/8/11 R4
 Tuong Lai,2,1,Mike Guernsey,88 24/8/11 R4
 Anthony Gonsalves,1,2,Sean Yamazaki,88 24/8/11 R4
-Ethan,0,2,Alvin Phan,88 24/8/11 R4
+Ethan Mai,0,2,Alvin Phan,88 24/8/11 R4
 Ryan Dahili,1,2,Mack McGhee,88 24/8/11 R4
 Donghun Kang,2,1,Gustavo Romero,88 24/8/11 R4
 Nima Movasseghi,1,2,Samuel Delgado,88 24/8/11 R4
@@ -549,14 +549,14 @@ Matt Griffin,2,1,Kevin Cossu,Tofu 24/8/16 R4
 Teddy Tran,0,2,Dan Machado,Tofu 24/8/16 R4
 Ryan Dahili,2,0,Jared Gonzales,Galaxy 24/8/16 R1
 David Nguyen,2,1,Mike Guernsey,Galaxy 24/8/16 R1
-Jason,2,1,Daniel Solano,Galaxy 24/8/16 R1
+Jason Chu,2,1,Daniel Solano,Galaxy 24/8/16 R1
 Sean Martinez,2,0,Daniel Nath,Galaxy 24/8/16 R1
-Ryan Dahili,2,1,Jason,Galaxy 24/8/16 R2
+Ryan Dahili,2,1,Jason Chu,Galaxy 24/8/16 R2
 Sean Martinez,2,1,David Nguyen,Galaxy 24/8/16 R2
 Mike Guernsey,2,0,Daniel Nath,Galaxy 24/8/16 R2
 Daniel Solano,0,2,Jared Gonzales,Galaxy 24/8/16 R2
 Ryan Dahili,2,1,Sean Martinez,Galaxy 24/8/16 R3
-Jason,2,0,Mike Guernsey,Galaxy 24/8/16 R3
+Jason Chu,2,0,Mike Guernsey,Galaxy 24/8/16 R3
 David Nguyen,2,0,Jared Gonzales,Galaxy 24/8/16 R3
 Daniel Solano,0,2,Daniel Nath,Galaxy 24/8/16 R3
 Andy Tsang,1,2,Jose Reyes,SamS 24/8/31 R1
@@ -698,10 +698,10 @@ Mack McGhee,2,1,Anthony Gonsalves,88 24/09/15 R1
 Matt Griffin,2,1,Arthur Biyok,88 24/09/15 R1
 Jose Reyes,2,1,Ryan Dahili,88 24/09/15 R1
 Aymen Matari,2,0,Donghun Kang,88 24/09/15 R1
-Izzy,1,2,Sean Yamazaki,88 24/09/15 R1
+Izzy Arguello,1,2,Sean Yamazaki,88 24/09/15 R1
 Mack McGhee,0,2,Matt Griffin,88 24/09/15 R2
 Jose Reyes,1,2,Mike Guernsey,88 24/09/15 R2
-Ryan Dahili,2,0,Izzy,88 24/09/15 R2
+Ryan Dahili,2,0,Izzy Arguello,88 24/09/15 R2
 Aymen Matari,2,1,Sean Yamazaki,88 24/09/15 R2
 Donghun Kang,2,0,Arthur Biyok,88 24/09/15 R2
 Matt Griffin,2,1,Aymen Matari,88 24/09/15 R3
@@ -807,3 +807,50 @@ Collin Sperry,2,0,Justin Le,TRF2K 24/09/22 T8
 Sean Yamazaki,1,2,Brian Ho,TRF2K 24/09/22 T4
 Stanley Lu,2,0,Collin Sperry,TRF2K 24/09/22 T4
 Brian Ho,2,1,Stanley Lu,TRF2K 24/09/22 T2
+Donghun Kang,1,2,Matt Griffin,Kastle 24/10/04 R1
+Nick Varbanets,0,2,Alvin Phan,Kastle 24/10/04 R1
+Jesse Rhee,1,2,Elliot Ong,Kastle 24/10/04 R1
+Kevin Cossu,2,1,Jeremy,Kastle 24/10/04 R1
+Matt Griffin,2,1,Alvin Phan,Kastle 24/10/04 R2
+Kevin Cossu,1,2,Elliot Ong,Kastle 24/10/04 R2
+Donghun Kang,2,1,Yishan McNabb,Kastle 24/10/04 R2
+Jesse Rhee,0,2,Nick Varbanets,Kastle 24/10/04 R2
+Matt Griffin,2,0,Elliot Ong,Kastle 24/10/04 R3
+Donghun Kang,2,0,Nick Varbanets,Kastle 24/10/04 R3
+Kevin Cossu,2,1,Yishan McNabb,Kastle 24/10/04 R3
+Alvin Phan,2,1,Jeremy,Kastle 24/10/04 R3
+Matt Griffin,2,0,Kevin Cossu,Kastle 24/10/04 R4
+Donghun Kang,0,2,Alvin Phan,Kastle 24/10/04 R4
+Nick Varbanets,0,2,Elliot Ong,Kastle 24/10/04 R4
+Yishan McNabb,2,0,Jeremy,Kastle 24/10/04 R4
+Mack McGhee,2,0,Sean Martinez,Galaxy 24/10/05 R1
+Calvin Chow,2,1,Jovincent del Mundo,Galaxy 24/10/05 R1
+Jason Chu,2,0,Jair Manzanilla,Galaxy 24/10/05 R1
+William ?G,2,1,Arthur Biyok,Galaxy 24/10/05 R1
+Daniel Nath,2,0,Alvaro Lopez,Galaxy 24/10/05 R1
+Chris Saga,2,1,Alan Y,Galaxy 24/10/05 R1
+Alvin Phan,2,0,Ryan Dahili,Galaxy 24/10/05 R1
+Anthony Koo,2,0,Mike Guernsey,Galaxy 24/10/05 R1
+Daniel Nath,2,0,Mack McGhee,Galaxy 24/10/05 R2
+Jason Chu,2,0,Chris Saga,Galaxy 24/10/05 R2
+Alvin Phan,2,1,William ?G,Galaxy 24/10/05 R2
+Calvin Chow,2,1,Anthony Koo,Galaxy 24/10/05 R2
+Alvaro Lopez,2,1,Jovincent del Mundo,Galaxy 24/10/05 R2
+Sean Martinez,2,1,Ryan Dahili,Galaxy 24/10/05 R2
+Mike Guernsey,2,0,Alan Y,Galaxy 24/10/05 R2
+Jair Manzanilla,2,1,Arthur Biyok,Galaxy 24/10/05 R2
+Jason Chu,2,0,Daniel Nath,Galaxy 24/10/05 R3
+Alvin Phan,2,1,Calvin Chow,Galaxy 24/10/05 R3
+William ?G,2,0,Alvaro Lopez,Galaxy 24/10/05 R3
+Chris Saga,2,1,Anthony Koo,Galaxy 24/10/05 R3
+Mike Guernsey,2,1,Sean Martinez,Galaxy 24/10/05 R3
+Mack McGhee,2,0,Jair Manzanilla,Galaxy 24/10/05 R3
+Arthur Biyok,2,0,Jovincent del Mundo,Galaxy 24/10/05 R3
+Ryan Dahili,2,1,Alan Y,Galaxy 24/10/05 R3
+Jason Chu,2,0,Alvin Phan,Galaxy 24/10/05 R4
+Mike Guernsey,2,1,Mack McGhee,Galaxy 24/10/05 R4
+Calvin Chow,2,1,William ?G,Galaxy 24/10/05 R4
+Anthony Koo,2,0,Arthur Biyok,Galaxy 24/10/05 R4
+Jovincent del Mundo,2,1,Ryan Dahili,Galaxy 24/10/05 R4
+Jason Chu,2,0,Calvin Chow,Galaxy 24/10/05 T4
+Alvin Phan,2,1,Chris Saga,Galaxy 24/10/05 T4
